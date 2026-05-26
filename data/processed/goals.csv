@@ -1,0 +1,645 @@
+match_id,minute,scoring_team,scorer,is_home_goal,home_score_before,away_score_before,home_score_after,away_score_after,game_state_before,game_state_after,is_equalizer,is_go_ahead_goal,is_late_goal
+4910212,33,Real Madrid,Maria Mendez,False,0,0,0,1,drawing,winning,False,True,False
+4910212,40,Logrono,Isabel Corte,True,0,1,1,1,losing,drawing,True,False,False
+4910212,78,Logrono,Merle Frohms,True,1,1,2,1,drawing,winning,False,True,True
+4910212,90,Real Madrid,Signe Bruun,False,2,1,2,2,losing,drawing,True,False,True
+4910213,26,Sevilla,Rosa Marquez,False,0,0,0,1,drawing,winning,False,True,False
+4910214,23,Real Sociedad,Aiara Agirrezabala,False,0,0,0,1,drawing,winning,False,True,False
+4910214,45,Real Sociedad,Aiara Agirrezabala,False,0,1,0,2,winning,winning,False,False,False
+4910214,74,Madrid CFF,Allegra Poljak,True,0,2,1,2,losing,losing,False,False,False
+4910214,83,Madrid CFF,Malou Rylov,True,1,2,2,2,losing,drawing,True,False,True
+4910215,5,Barcelona,Caroline Graham Hansen,True,0,0,1,0,drawing,winning,False,True,False
+4910215,11,Barcelona,Aitana Bonmati,True,1,0,2,0,winning,winning,False,False,False
+4910215,28,Barcelona,Ewa Pajor,True,2,0,3,0,winning,winning,False,False,False
+4910215,45,Barcelona,Ona Batlle,True,3,0,4,0,winning,winning,False,False,False
+4910215,57,Barcelona,Caroline Graham Hansen,True,4,0,5,0,winning,winning,False,False,False
+4910215,71,Barcelona,Claudia Pina,True,5,0,6,0,winning,winning,False,False,False
+4910215,73,Barcelona,Claudia Pina,True,6,0,7,0,winning,winning,False,False,False
+4910215,90,Barcelona,Claudia Pina,True,7,0,8,0,winning,winning,False,False,True
+4910216,34,Atletico Madrid,Synne Jensen,False,0,0,0,1,drawing,winning,False,True,False
+4910216,49,Atletico Madrid,Gabriela Garcia,False,0,1,0,2,winning,winning,False,False,False
+4910216,64,Atletico Madrid,Fiamma Benitez,False,0,2,0,3,winning,winning,False,False,False
+4910216,87,Atletico Madrid,Macarena Portales,False,0,3,0,4,winning,winning,False,False,True
+4910216,90,Atletico Madrid,Luany Vitoria da Silva Rosa,False,0,4,0,5,winning,winning,False,False,True
+4910218,17,Granada,Sonya Keefe,False,0,0,0,1,drawing,winning,False,True,False
+4910218,23,Levante,Maria Gabaldon,True,0,1,1,1,losing,drawing,True,False,False
+4910218,73,Granada,Sonya Keefe,False,1,1,1,2,drawing,winning,False,True,False
+4910219,15,Barcelona,Vicky Lopez,False,0,0,0,1,drawing,winning,False,True,False
+4910219,21,Barcelona,Patricia Guijarro,False,0,1,0,2,winning,winning,False,False,False
+4910219,23,Barcelona,Ewa Pajor,False,0,2,0,3,winning,winning,False,False,False
+4910219,40,Barcelona,Ewa Pajor,False,0,3,0,4,winning,winning,False,False,False
+4910219,49,Barcelona,Adriana Nanclares,False,0,4,0,5,winning,winning,False,False,False
+4910219,51,Athletic Club,Maite Zubieta,True,0,5,1,5,losing,losing,False,False,False
+4910219,60,Barcelona,Aitana Bonmati,False,1,5,1,6,winning,winning,False,False,False
+4910219,80,Barcelona,Vicky Lopez,False,1,6,1,7,winning,winning,False,False,True
+4910219,89,Barcelona,Aitana Bonmati,False,1,7,1,8,winning,winning,False,False,True
+4910220,17,Atletico Madrid,Lauren,True,0,0,1,0,drawing,winning,False,True,False
+4910220,73,Real Madrid,Sara Däbritz,False,1,0,1,1,losing,drawing,True,False,False
+4910220,83,Atletico Madrid,Luany Vitoria da Silva Rosa,True,1,1,2,1,drawing,winning,False,True,True
+4910221,90,Real Sociedad,Nerea Eizagirre,False,0,0,0,1,drawing,winning,False,True,True
+4910222,20,UD Tenerife,Aithiara,False,0,0,0,1,drawing,winning,False,True,False
+4910222,46,UD Tenerife,Sakina Ouzraoui,False,0,1,0,2,winning,winning,False,False,False
+4910222,63,UD Tenerife,Bernadette Amani,False,0,2,0,3,winning,winning,False,False,False
+4910222,82,UD Tenerife,Carlota Suarez,False,0,3,0,4,winning,winning,False,False,True
+4910224,21,Levante Badalona,Estefania Banini,False,0,0,0,1,drawing,winning,False,True,False
+4910224,70,Levante Badalona,Lice Chamorro,False,0,1,0,2,winning,winning,False,False,False
+4910225,41,Espanyol,Ona Baradad,True,0,0,1,0,drawing,winning,False,True,False
+4910225,61,Deportivo La Coruna,Barbara Latorre,False,1,0,1,1,losing,drawing,True,False,False
+4910226,80,Madrid CFF,Monica,True,0,0,1,0,drawing,winning,False,True,True
+4910227,6,Alhama CF,Mariana Diaz Leal,True,0,0,1,0,drawing,winning,False,True,False
+4910227,51,Granada,Laura Perez,False,1,0,1,1,losing,drawing,True,False,False
+4910228,8,Atletico Madrid,Amaiur Sarriegi,True,0,0,1,0,drawing,winning,False,True,False
+4910228,51,Atletico Madrid,Luany Vitoria da Silva Rosa,True,1,0,2,0,winning,winning,False,False,False
+4910228,57,Atletico Madrid,Julia Bartel,True,2,0,3,0,winning,winning,False,False,False
+4910228,90,Atletico Madrid,Andrea Medina,True,3,0,4,0,winning,winning,False,False,True
+4910229,9,Real Sociedad,Aiara Agirrezabala,True,0,0,1,0,drawing,winning,False,True,False
+4910229,16,Real Sociedad,Lucia Pardo,True,1,0,2,0,winning,winning,False,False,False
+4910229,88,Real Sociedad,Intza Eguiguren,True,2,0,3,0,winning,winning,False,False,True
+4910230,32,Deportivo La Coruna,Ainhoa Marin,True,0,0,1,0,drawing,winning,False,True,False
+4910232,21,Barcelona,Aitana Bonmati,True,0,0,1,0,drawing,winning,False,True,False
+4910232,24,Barcelona,Aitana Bonmati,True,1,0,2,0,winning,winning,False,False,False
+4910232,42,Barcelona,Ewa Pajor,True,2,0,3,0,winning,winning,False,False,False
+4910232,68,Barcelona,Francisca Nazareth,True,3,0,4,0,winning,winning,False,False,False
+4910234,17,Real Madrid,Alba Redondo,True,0,0,1,0,drawing,winning,False,True,False
+4910234,21,Madrid CFF,Angela Sosa,False,1,0,1,1,losing,drawing,True,False,False
+4910234,34,Real Madrid,Caroline Weir,True,1,1,2,1,drawing,winning,False,True,False
+4910235,38,UD Tenerife,Aithiara,False,0,0,0,1,drawing,winning,False,True,False
+4910235,52,UD Tenerife,Carlota Suarez,False,0,1,0,2,winning,winning,False,False,False
+4910235,90,UD Tenerife,Paulina Gramaglia,False,0,2,0,3,winning,winning,False,False,True
+4910235,90,UD Tenerife,Aleksandra Zaremba,False,0,3,0,4,winning,winning,False,False,True
+4910237,34,Espanyol,Paula Arana,True,0,0,1,0,drawing,winning,False,True,False
+4910237,73,Athletic Club,Jone Amezaga,False,1,0,1,1,losing,drawing,True,False,False
+4910238,54,Madrid CFF,Allegra Poljak,True,0,0,1,0,drawing,winning,False,True,False
+4910238,82,Atletico Madrid,Fiamma Benitez,False,1,0,1,1,losing,drawing,True,False,True
+4910239,2,Real Madrid,Caroline Weir,True,0,0,1,0,drawing,winning,False,True,False
+4910239,10,Real Madrid,Sara Däbritz,True,1,0,2,0,winning,winning,False,False,False
+4910239,54,Real Madrid,Sara Däbritz,True,2,0,3,0,winning,winning,False,False,False
+4910239,90,Real Madrid,Athenea del Castillo,True,3,0,4,0,winning,winning,False,False,True
+4910240,25,Eibar,Juliana Cardozo,False,0,0,0,1,drawing,winning,False,True,False
+4910240,53,Granada,Sonya Keefe,True,0,1,1,1,losing,drawing,True,False,False
+4910240,60,Granada,Laura Requena,True,1,1,2,1,drawing,winning,False,True,False
+4910240,71,Granada,Laura Requena,True,2,1,3,1,winning,winning,False,False,False
+4910241,19,Barcelona,Salma Paralluelo,False,0,0,0,1,drawing,winning,False,True,False
+4910241,39,Barcelona,Claudia Pina,False,0,1,0,2,winning,winning,False,False,False
+4910241,49,Barcelona,Vicky Lopez,False,0,2,0,3,winning,winning,False,False,False
+4910241,74,Barcelona,Claudia Pina,False,0,3,0,4,winning,winning,False,False,False
+4910241,90,Barcelona,Claudia Pina,False,0,4,0,5,winning,winning,False,False,True
+4910242,16,Real Sociedad,Nerea Eizagirre,True,0,0,1,0,drawing,winning,False,True,False
+4910242,27,Levante,Érika González,False,1,0,1,1,losing,drawing,True,False,False
+4910242,81,Real Sociedad,Nerea Eizagirre,True,1,1,2,1,drawing,winning,False,True,True
+4910243,28,Athletic Club,Nerea Nevado,True,0,0,1,0,drawing,winning,False,True,False
+4910243,45,Sevilla,Isabel Álvarez,False,1,0,1,1,losing,drawing,True,False,False
+4910244,49,Real Sociedad,Edna Imade,False,0,0,0,1,drawing,winning,False,True,False
+4910244,90,Real Sociedad,Lucia Pardo,False,0,1,0,2,winning,winning,False,False,True
+4910245,45,Madrid CFF,Monica,False,0,0,0,1,drawing,winning,False,True,False
+4910245,67,Deportivo La Coruna,Paula Monteagudo,True,0,1,1,1,losing,drawing,True,False,False
+4910245,89,Madrid CFF,Nuria Mendoza,False,1,1,1,2,drawing,winning,False,True,True
+4910246,18,Logrono,Mia Asenjo,True,0,0,1,0,drawing,winning,False,True,False
+4910246,44,Alhama CF,Belen,False,1,0,1,1,losing,drawing,True,False,False
+4910246,45,Alhama CF,Yaiza Relea,False,1,1,1,2,drawing,winning,False,True,False
+4910246,70,Logrono,Paula Partido,True,1,2,2,2,losing,drawing,True,False,False
+4910246,77,Alhama CF,Yaiza Relea,False,2,2,2,3,drawing,winning,False,True,True
+4910246,83,Alhama CF,Raquel Pinel,False,2,3,2,4,winning,winning,False,False,True
+4910247,47,Atletico Madrid,Fiamma Benitez,False,0,0,0,1,drawing,winning,False,True,False
+4910247,51,Atletico Madrid,Fiamma Benitez,False,0,1,0,2,winning,winning,False,False,False
+4910247,62,Atletico Madrid,Vilde Bøe Risa,False,0,2,0,3,winning,winning,False,False,False
+4910247,71,Atletico Madrid,Synne Jensen,False,0,3,0,4,winning,winning,False,False,False
+4910248,39,Eibar,Opah Clement,False,0,0,0,1,drawing,winning,False,True,False
+4910249,21,Barcelona,Alexia Putellas,True,0,0,1,0,drawing,winning,False,True,False
+4910249,55,Barcelona,Ewa Pajor,True,1,0,2,0,winning,winning,False,False,False
+4910251,14,Alhama CF,Marta Gestera,True,0,0,1,0,drawing,winning,False,True,False
+4910251,40,Alhama CF,Astrid Alvarez,True,1,0,2,0,winning,winning,False,False,False
+4910251,54,Alhama CF,Belen,True,2,0,3,0,winning,winning,False,False,False
+4910251,74,Deportivo La Coruna,Paula Monteagudo,False,3,0,3,1,losing,losing,False,False,False
+4910252,4,Granada,Sonya Keefe,False,0,0,0,1,drawing,winning,False,True,False
+4910252,84,Logrono,Daiana Falfan,True,0,1,1,1,losing,drawing,True,False,True
+4910253,14,Barcelona,Clara Serrajordi,False,0,0,0,1,drawing,winning,False,True,False
+4910253,54,Barcelona,Vicky Lopez,False,0,1,0,2,winning,winning,False,False,False
+4910253,73,Barcelona,Caroline Graham Hansen,False,0,2,0,3,winning,winning,False,False,False
+4910253,90,Barcelona,Salma Paralluelo,False,0,3,0,4,winning,winning,False,False,True
+4910254,12,UD Tenerife,Sakina Ouzraoui,False,0,0,0,1,drawing,winning,False,True,False
+4910254,22,UD Tenerife,Natalia Ramos,False,0,1,0,2,winning,winning,False,False,False
+4910254,35,Real Sociedad,Edna Imade,True,0,2,1,2,losing,losing,False,False,False
+4910255,86,Atletico Madrid,Lauren,True,0,0,1,0,drawing,winning,False,True,True
+4910255,88,Athletic Club,Jone Amezaga,False,1,0,1,1,losing,drawing,True,False,True
+4910256,26,Real Madrid,Linda Caicedo,True,0,0,1,0,drawing,winning,False,True,False
+4910256,38,Real Madrid,Naomie Feller,True,1,0,2,0,winning,winning,False,False,False
+4910256,58,Real Madrid,Athenea del Castillo,True,2,0,3,0,winning,winning,False,False,False
+4910257,45,Sevilla,Andrea Alvarez,True,0,0,1,0,drawing,winning,False,True,False
+4910258,8,Madrid CFF,Allegra Poljak,True,0,0,1,0,drawing,winning,False,True,False
+4910258,79,Madrid CFF,Kamilla Melgård,True,1,0,2,0,winning,winning,False,False,True
+4910259,14,Real Madrid,Caroline Weir,False,0,0,0,1,drawing,winning,False,True,False
+4910259,20,Real Madrid,Ane Campos,False,0,1,0,2,winning,winning,False,False,False
+4910259,71,Athletic Club,Nerea Nevado,True,0,2,1,2,losing,losing,False,False,False
+4910259,82,Real Madrid,Caroline Weir,False,1,2,1,3,winning,winning,False,False,True
+4910259,90,Real Madrid,Iris Santiago,False,1,3,1,4,winning,winning,False,False,True
+4910260,2,Barcelona,Esmee Brugts,False,0,0,0,1,drawing,winning,False,True,False
+4910260,41,Barcelona,Patricia Guijarro,False,0,1,0,2,winning,winning,False,False,False
+4910260,53,Barcelona,Ewa Pajor,False,0,2,0,3,winning,winning,False,False,False
+4910260,63,Barcelona,Alexia Putellas,False,0,3,0,4,winning,winning,False,False,False
+4910260,85,Barcelona,Vicky Lopez,False,0,4,0,5,winning,winning,False,False,True
+4910260,90,Barcelona,Laia Aleixandri,False,0,5,0,6,winning,winning,False,False,True
+4910261,19,Levante Badalona,Elena Julve,True,0,0,1,0,drawing,winning,False,True,False
+4910262,8,Deportivo La Coruna,Ainhoa Marin,True,0,0,1,0,drawing,winning,False,True,False
+4910262,25,Deportivo La Coruna,Millene Cabral,True,1,0,2,0,winning,winning,False,False,False
+4910262,45,Logrono,Isabel Corte,False,2,0,2,1,losing,losing,False,False,False
+4910262,70,Logrono,Flavine Mawete,False,2,1,2,2,losing,drawing,True,False,False
+4910263,35,Granada,Sonya Keefe,True,0,0,1,0,drawing,winning,False,True,False
+4910263,42,Real Sociedad,Edna Imade,False,1,0,1,1,losing,drawing,True,False,False
+4910263,87,Real Sociedad,Edna Imade,False,1,1,1,2,drawing,winning,False,True,True
+4910263,90,Granada,Maria Barquero,True,1,2,2,2,losing,drawing,True,False,True
+4910264,85,Sevilla,Inma Gabarro,False,0,0,0,1,drawing,winning,False,True,True
+4910265,9,Espanyol,Ainoa Campo,True,0,0,1,0,drawing,winning,False,True,False
+4910265,53,Espanyol,Ona Baradad,True,1,0,2,0,winning,winning,False,False,False
+4910265,90,Espanyol,Angeles,True,2,0,3,0,winning,winning,False,False,True
+4910266,87,Eibar,Carmen Álvarez,False,0,0,0,1,drawing,winning,False,True,True
+4910268,19,Espanyol,Anna Torroda,False,0,0,0,1,drawing,winning,False,True,False
+4910268,57,Espanyol,Ainoa Campo,False,0,1,0,2,winning,winning,False,False,False
+4910269,58,Real Sociedad,Edna Imade,False,0,0,0,1,drawing,winning,False,True,False
+4910269,73,Real Sociedad,Edna Imade,False,0,1,0,2,winning,winning,False,False,False
+4910269,90,Real Sociedad,Claire Lavogez,False,0,2,0,3,winning,winning,False,False,True
+4910270,51,Barcelona,Claudia Pina,True,0,0,1,0,drawing,winning,False,True,False
+4910270,87,Barcelona,Francisca Nazareth,True,1,0,2,0,winning,winning,False,False,True
+4910271,6,Atletico Madrid,Gabriela Garcia,False,0,0,0,1,drawing,winning,False,True,False
+4910271,70,Deportivo La Coruna,Millene Cabral,True,0,1,1,1,losing,drawing,True,False,False
+4910272,3,Levante Badalona,Lice Chamorro,False,0,0,0,1,drawing,winning,False,True,False
+4910272,19,UD Tenerife,Natalia Ramos,True,0,1,1,1,losing,drawing,True,False,False
+4910272,30,Levante Badalona,Maria Llompart,False,1,1,1,2,drawing,winning,False,True,False
+4910272,37,UD Tenerife,Paola Hernández,True,1,2,2,2,losing,drawing,True,False,False
+4910273,17,Real Madrid,Paula Comendador,True,0,0,1,0,drawing,winning,False,True,False
+4910273,57,Real Madrid,Sara Holmgaard,True,1,0,2,0,winning,winning,False,False,False
+4910273,60,Real Madrid,Alba Redondo,True,2,0,3,0,winning,winning,False,False,False
+4910273,63,Real Madrid,Rocio,True,3,0,4,0,winning,winning,False,False,False
+4910274,32,Madrid CFF,Hildur Antonsdottir,False,0,0,0,1,drawing,winning,False,True,False
+4910274,49,Sevilla,Andrea Alvarez,True,0,1,1,1,losing,drawing,True,False,False
+4910274,60,Madrid CFF,Monica,False,1,1,1,2,drawing,winning,False,True,False
+4910274,80,Madrid CFF,Bárbara Lopez,False,1,2,1,3,winning,winning,False,False,True
+4910277,41,Real Madrid,Sara Däbritz,False,0,0,0,1,drawing,winning,False,True,False
+4910278,29,UD Tenerife,Carlota Suarez,False,0,0,0,1,drawing,winning,False,True,False
+4910278,45,Levante,Patri,True,0,1,1,1,losing,drawing,True,False,False
+4910278,63,UD Tenerife,Natalia Ramos,False,1,1,1,2,drawing,winning,False,True,False
+4910278,83,Levante,Érika González,True,1,2,2,2,losing,drawing,True,False,True
+4910278,90,UD Tenerife,Sandra Castello,False,2,2,2,3,drawing,winning,False,True,True
+4910278,90,UD Tenerife,Iratxe Perez,False,2,3,2,4,winning,winning,False,False,True
+4910279,21,Atletico Madrid,Synne Jensen,True,0,0,1,0,drawing,winning,False,True,False
+4910279,45,Atletico Madrid,Synne Jensen,True,1,0,2,0,winning,winning,False,False,False
+4910279,51,Atletico Madrid,Gabriela Garcia,True,2,0,3,0,winning,winning,False,False,False
+4910279,56,Atletico Madrid,Fiamma Benitez,True,3,0,4,0,winning,winning,False,False,False
+4910280,48,Eibar,Sara Martin,True,0,0,1,0,drawing,winning,False,True,False
+4910281,37,Real Sociedad,Edna Imade,True,0,0,1,0,drawing,winning,False,True,False
+4910282,36,Granada,Sonya Keefe,False,0,0,0,1,drawing,winning,False,True,False
+4910283,48,Athletic Club,Ane Campos,True,0,0,1,0,drawing,winning,False,True,False
+4910283,81,Athletic Club,Ane Azkona,True,1,0,2,0,winning,winning,False,False,True
+4910284,36,Levante,Érika González,False,0,0,0,1,drawing,winning,False,True,False
+4910284,90,Levante Badalona,Lice Chamorro,True,0,1,1,1,losing,drawing,True,False,True
+4910285,3,Real Sociedad,Lucia Rodriguez,False,0,0,0,1,drawing,winning,False,True,False
+4910285,41,Espanyol,Paula Arana,True,0,1,1,1,losing,drawing,True,False,False
+4910285,62,Real Sociedad,Aiara Agirrezabala,False,1,1,1,2,drawing,winning,False,True,False
+4910285,74,Real Sociedad,Klara Cahynova,False,1,2,1,3,winning,winning,False,False,False
+4910285,77,Espanyol,Ainoa Campo,True,1,3,2,3,losing,losing,False,False,True
+4910286,16,Sevilla,Andrea Alvarez,False,0,0,0,1,drawing,winning,False,True,False
+4910286,77,Sevilla,Raquel Morcillo,False,0,1,0,2,winning,winning,False,False,True
+4910287,12,UD Tenerife,Carlota Suarez,False,0,0,0,1,drawing,winning,False,True,False
+4910287,84,UD Tenerife,Claudia Blanco,False,0,1,0,2,winning,winning,False,False,True
+4910288,30,Real Madrid,Alba Santamaria,True,0,0,1,0,drawing,winning,False,True,False
+4910288,50,Real Madrid,Silvia Cristobal,True,1,0,2,0,winning,winning,False,False,False
+4910288,54,Real Madrid,Lotte Keukelaar,True,2,0,3,0,winning,winning,False,False,False
+4910288,89,Real Madrid,Iris Santiago,True,3,0,4,0,winning,winning,False,False,True
+4910288,90,Real Madrid,Linda Caicedo,True,4,0,5,0,winning,winning,False,False,True
+4910289,14,Atletico Madrid,Fiamma Benitez,False,0,0,0,1,drawing,winning,False,True,False
+4910289,34,Atletico Madrid,Luany Vitoria da Silva Rosa,False,0,1,0,2,winning,winning,False,False,False
+4910289,71,Atletico Madrid,Luany Vitoria da Silva Rosa,False,0,2,0,3,winning,winning,False,False,False
+4910289,78,Atletico Madrid,Rosa Otermin,False,0,3,0,4,winning,winning,False,False,True
+4910289,86,Atletico Madrid,Julia Bartel,False,0,4,0,5,winning,winning,False,False,True
+4910290,16,Barcelona,Vicky Lopez,True,0,0,1,0,drawing,winning,False,True,False
+4910290,18,Barcelona,Alexia Putellas,True,1,0,2,0,winning,winning,False,False,False
+4910290,22,Barcelona,Mapi Leon,True,2,0,3,0,winning,winning,False,False,False
+4910290,28,Barcelona,Laia Aleixandri,True,3,0,4,0,winning,winning,False,False,False
+4910290,32,Barcelona,Laia Aleixandri,True,4,0,5,0,winning,winning,False,False,False
+4910290,36,Barcelona,Claudia Pina,True,5,0,6,0,winning,winning,False,False,False
+4910290,41,Barcelona,Vera Martinez,True,6,0,7,0,winning,winning,False,False,False
+4910290,45,Barcelona,Caroline Graham Hansen,True,7,0,8,0,winning,winning,False,False,False
+4910291,30,Madrid CFF,Allegra Poljak,False,0,0,0,1,drawing,winning,False,True,False
+4910291,45,Madrid CFF,Angela Sosa,False,0,1,0,2,winning,winning,False,False,False
+4910291,47,Madrid CFF,Malou Rylov,False,0,2,0,3,winning,winning,False,False,False
+4910291,86,Madrid CFF,Emilie Nautnes,False,0,3,0,4,winning,winning,False,False,True
+4910291,90,Alhama CF,Mariana Diaz Leal,True,0,4,1,4,losing,losing,False,False,True
+4910292,38,Atletico Madrid,Vilde Bøe Risa,True,0,0,1,0,drawing,winning,False,True,False
+4910292,67,Atletico Madrid,Lydia Rodriguez,True,1,0,2,0,winning,winning,False,False,False
+4910293,56,Deportivo La Coruna,Marisa,True,0,0,1,0,drawing,winning,False,True,False
+4910294,15,Espanyol,Julia Guerra,False,0,0,0,1,drawing,winning,False,True,False
+4910294,27,Eibar,Laura Camino,True,0,1,1,1,losing,drawing,True,False,False
+4910294,77,Espanyol,Ainoa Campo,False,1,1,1,2,drawing,winning,False,True,True
+4910295,15,Barcelona,Ewa Pajor,True,0,0,1,0,drawing,winning,False,True,False
+4910295,30,Barcelona,Ewa Pajor,True,1,0,2,0,winning,winning,False,False,False
+4910295,90,Barcelona,Sydney Schertenleib,True,2,0,3,0,winning,winning,False,False,True
+4910295,90,Barcelona,Aitana Bonmati,True,3,0,4,0,winning,winning,False,False,True
+4910296,67,Athletic Club,Daniela Agote,False,0,0,0,1,drawing,winning,False,True,False
+4910296,90,Real Sociedad,Nerea Eizagirre,True,0,1,1,1,losing,drawing,True,False,True
+4910297,73,Sevilla,Fatoumata Kanteh,True,0,0,1,0,drawing,winning,False,True,False
+4910298,7,UD Tenerife,Natalia Ramos,True,0,0,1,0,drawing,winning,False,True,False
+4910298,36,UD Tenerife,Carlota Suarez,True,1,0,2,0,winning,winning,False,False,False
+4910298,45,Granada,Laura Requena,False,2,0,2,1,losing,losing,False,False,False
+4910298,85,Granada,Ariadna Mingueza,False,2,1,2,2,losing,drawing,True,False,True
+4910299,43,Levante Badalona,Itziar Pinillos,True,0,0,1,0,drawing,winning,False,True,False
+4910299,64,Espanyol,Ona Baradad,False,1,0,1,1,losing,drawing,True,False,False
+4910300,10,Real Sociedad,Emma Ramirez,True,0,0,1,0,drawing,winning,False,True,False
+4910300,32,Real Sociedad,Nerea Eizagirre,True,1,0,2,0,winning,winning,False,False,False
+4910300,56,Alhama CF,Raquel Pinel,False,2,0,2,1,losing,losing,False,False,False
+4910300,63,Real Sociedad,Edna Imade,True,2,1,3,1,winning,winning,False,False,False
+4910301,11,Athletic Club,Ane Azkona,False,0,0,0,1,drawing,winning,False,True,False
+4910301,29,Athletic Club,Ane Azkona,False,0,1,0,2,winning,winning,False,False,False
+4910301,45,Granada,Manoly Baquerizo,True,0,2,1,2,losing,losing,False,False,False
+4910301,56,Athletic Club,Daniela Agote,False,1,2,1,3,winning,winning,False,False,False
+4910301,74,Athletic Club,Ane Azkona,False,1,3,1,4,winning,winning,False,False,False
+4910301,90,Athletic Club,Maite Zubieta,False,1,4,1,5,winning,winning,False,False,True
+4910302,12,UD Tenerife,Elba Verges,True,0,0,1,0,drawing,winning,False,True,False
+4910302,73,UD Tenerife,Bicho,True,1,0,2,0,winning,winning,False,False,False
+4910302,90,Atletico Madrid,Gabriela Garcia,False,2,0,2,1,losing,losing,False,False,True
+4910303,17,Sevilla,Inma Gabarro,True,0,0,1,0,drawing,winning,False,True,False
+4910303,41,Deportivo La Coruna,Ainhoa Marin,False,1,0,1,1,losing,drawing,True,False,False
+4910303,64,Sevilla,Inma Gabarro,True,1,1,2,1,drawing,winning,False,True,False
+4910303,73,Sevilla,Fatoumata Kanteh,True,2,1,3,1,winning,winning,False,False,False
+4910304,90,Madrid CFF,Monica,True,0,0,1,0,drawing,winning,False,True,True
+4910305,2,Real Madrid,Caroline Weir,True,0,0,1,0,drawing,winning,False,True,False
+4910305,47,Real Madrid,Caroline Weir,True,1,0,2,0,winning,winning,False,False,False
+4910305,84,Real Madrid,Rocio,True,2,0,3,0,winning,winning,False,False,True
+4910306,14,Barcelona,Ewa Pajor,False,0,0,0,1,drawing,winning,False,True,False
+4910306,51,Barcelona,Francisca Nazareth,False,0,1,0,2,winning,winning,False,False,False
+4910306,72,Barcelona,Claudia Pina,False,0,2,0,3,winning,winning,False,False,False
+4910306,90,Barcelona,Alexia Putellas,False,0,3,0,4,winning,winning,False,False,True
+4910307,90,Levante Badalona,Lice Chamorro,False,0,0,0,1,drawing,winning,False,True,True
+4910308,69,Athletic Club,Daniela Agote,True,0,0,1,0,drawing,winning,False,True,False
+4910309,16,Sevilla,Raquel Morcillo,False,0,0,0,1,drawing,winning,False,True,False
+4910309,19,Sevilla,Rosa Marquez,False,0,1,0,2,winning,winning,False,False,False
+4910309,58,Atletico Madrid,Amaiur Sarriegi,True,0,2,1,2,losing,losing,False,False,False
+4910309,65,Atletico Madrid,Isabel Álvarez,True,1,2,2,2,losing,drawing,True,False,False
+4910310,42,Deportivo La Coruna,Ainhoa Marin,True,0,0,1,0,drawing,winning,False,True,False
+4910310,66,Deportivo La Coruna,Ainhoa Marin,True,1,0,2,0,winning,winning,False,False,False
+4910311,53,Eibar,Marta Masferrer,False,0,0,0,1,drawing,winning,False,True,False
+4910312,2,Espanyol,Naima,True,0,0,1,0,drawing,winning,False,True,False
+4910312,26,Madrid CFF,Malou Rylov,False,1,0,1,1,losing,drawing,True,False,False
+4910312,40,Madrid CFF,Hildur Antonsdottir,False,1,1,1,2,drawing,winning,False,True,False
+4910312,45,Madrid CFF,Bárbara Lopez,False,1,2,1,3,winning,winning,False,False,False
+4910312,45,Madrid CFF,Alba Ruiz,False,1,3,1,4,winning,winning,False,False,False
+4910312,49,Espanyol,Julia Guerra,True,1,4,2,4,losing,losing,False,False,False
+4910312,90,Madrid CFF,Malou Rylov,False,2,4,2,5,winning,winning,False,False,True
+4910313,84,Barcelona,Ewa Pajor,True,0,0,1,0,drawing,winning,False,True,True
+4910313,88,Barcelona,Alexia Putellas,True,1,0,2,0,winning,winning,False,False,True
+4910314,43,Real Madrid,Ainhoa Vicente,True,0,0,1,0,drawing,winning,False,True,False
+4910315,5,Barcelona,Ewa Pajor,False,0,0,0,1,drawing,winning,False,True,False
+4910315,13,Levante Badalona,Lorena Navarro,True,0,1,1,1,losing,drawing,True,False,False
+4910315,38,Barcelona,Claudia Pina,False,1,1,1,2,drawing,winning,False,True,False
+4910315,59,Barcelona,Carla Juliá,False,1,2,1,3,winning,winning,False,False,False
+4910315,77,Barcelona,Vicky Lopez,False,1,3,1,4,winning,winning,False,False,True
+4910315,90,Barcelona,Esmee Brugts,False,1,4,1,5,winning,winning,False,False,True
+4910316,30,Real Madrid,Paula Comendador,False,0,0,0,1,drawing,winning,False,True,False
+4910316,44,Real Madrid,Alba Redondo,False,0,1,0,2,winning,winning,False,False,False
+4910316,45,Real Madrid,Alba Redondo,False,0,2,0,3,winning,winning,False,False,False
+4910317,20,Sevilla,Chantal Hagel,True,0,0,1,0,drawing,winning,False,True,False
+4910317,51,Alhama CF,Yaiza Relea,False,1,0,1,1,losing,drawing,True,False,False
+4910317,72,Sevilla,Alba Cerrato,True,1,1,2,1,drawing,winning,False,True,False
+4910318,10,Atletico Madrid,Synne Jensen,False,0,0,0,1,drawing,winning,False,True,False
+4910318,14,Eibar,Carla Andres,True,0,1,1,1,losing,drawing,True,False,False
+4910318,20,Eibar,Emma Moreno,True,1,1,2,1,drawing,winning,False,True,False
+4910318,59,Atletico Madrid,Vilde Bøe Risa,False,2,1,2,2,losing,drawing,True,False,False
+4910319,47,Real Sociedad,Lucia Pardo,True,0,0,1,0,drawing,winning,False,True,False
+4910319,64,Real Sociedad,Emma Ramirez,True,1,0,2,0,winning,winning,False,False,False
+4910319,87,Real Sociedad,Klara Cahynova,True,2,0,3,0,winning,winning,False,False,True
+4910320,12,UD Tenerife,Natalia Ramos,True,0,0,1,0,drawing,winning,False,True,False
+4910320,77,Logrono,Paula Rubio,False,1,0,1,1,losing,drawing,True,False,True
+4910321,51,Espanyol,Angeles,False,0,0,0,1,drawing,winning,False,True,False
+4910322,44,Athletic Club,Elene Gurtubay,False,0,0,0,1,drawing,winning,False,True,False
+4910322,81,Athletic Club,Daniela Agote,False,0,1,0,2,winning,winning,False,False,True
+4910323,65,Eibar,Carmen Álvarez,False,0,0,0,1,drawing,winning,False,True,False
+4910325,6,Real Sociedad,Intza Eguiguren,False,0,0,0,1,drawing,winning,False,True,False
+4910325,12,Atletico Madrid,Synne Jensen,True,0,1,1,1,losing,drawing,True,False,False
+4910325,24,Atletico Madrid,Luany Vitoria da Silva Rosa,True,1,1,2,1,drawing,winning,False,True,False
+4910325,29,Real Sociedad,Edna Imade,False,2,1,2,2,losing,drawing,True,False,False
+4910325,32,Real Sociedad,Edna Imade,False,2,2,2,3,drawing,winning,False,True,False
+4910325,48,Atletico Madrid,Julia Bartel,True,2,3,3,3,losing,drawing,True,False,False
+4910325,57,Atletico Madrid,Amaiur Sarriegi,True,3,3,4,3,drawing,winning,False,True,False
+4910325,64,Atletico Madrid,Synne Jensen,True,4,3,5,3,winning,winning,False,False,False
+4910325,65,Real Sociedad,Emma Ramirez,False,5,3,5,4,losing,losing,False,False,False
+4910325,79,Real Sociedad,Edna Imade,False,5,4,5,5,losing,drawing,True,False,True
+4910326,12,Deportivo La Coruna,Millene Cabral,True,0,0,1,0,drawing,winning,False,True,False
+4910326,68,UD Tenerife,Claudia Blanco,False,1,0,1,1,losing,drawing,True,False,False
+4910327,7,Levante,Raiderlin Carrasco,False,0,0,0,1,drawing,winning,False,True,False
+4910327,45,Levante,Ana Franco,False,0,1,0,2,winning,winning,False,False,False
+4910327,45,Logrono,Catalina Ongaro,True,0,2,1,2,losing,losing,False,False,False
+4910327,45,Logrono,Flavine Mawete,True,1,2,2,2,losing,drawing,True,False,False
+4910327,86,Levante,Érika González,False,2,2,2,3,drawing,winning,False,True,True
+4910328,63,Granada,Ariadna Mingueza,False,0,0,0,1,drawing,winning,False,True,False
+4910328,90,Granada,Vera Molina,False,0,1,0,2,winning,winning,False,False,True
+4910329,9,Barcelona,Ewa Pajor,True,0,0,1,0,drawing,winning,False,True,False
+4910329,21,Barcelona,Ewa Pajor,True,1,0,2,0,winning,winning,False,False,False
+4910329,25,Barcelona,Carla Juliá,True,2,0,3,0,winning,winning,False,False,False
+4910329,28,Barcelona,Sydney Schertenleib,True,3,0,4,0,winning,winning,False,False,False
+4910329,38,Barcelona,Ewa Pajor,True,4,0,5,0,winning,winning,False,False,False
+4910329,43,Barcelona,Esmee Brugts,True,5,0,6,0,winning,winning,False,False,False
+4910329,45,Barcelona,Nuria Mendoza,True,6,0,7,0,winning,winning,False,False,False
+4910329,49,Madrid CFF,Emilie Nautnes,False,7,0,7,1,losing,losing,False,False,False
+4910329,52,Barcelona,Alexia Putellas,True,7,1,8,1,winning,winning,False,False,False
+4910329,58,Barcelona,Ewa Pajor,True,8,1,9,1,winning,winning,False,False,False
+4910329,68,Barcelona,Ainoa Gomez,True,9,1,10,1,winning,winning,False,False,False
+4910329,71,Barcelona,Sydney Schertenleib,True,10,1,11,1,winning,winning,False,False,False
+4910329,81,Barcelona,Claudia Pina,True,11,1,12,1,winning,winning,False,False,True
+4910330,23,Real Madrid,Linda Caicedo,True,0,0,1,0,drawing,winning,False,True,False
+4910330,28,Real Madrid,Caroline Weir,True,1,0,2,0,winning,winning,False,False,False
+4910331,22,Barcelona,Claudia Pina,False,0,0,0,1,drawing,winning,False,True,False
+4910331,72,Barcelona,Caroline Graham Hansen,False,0,1,0,2,winning,winning,False,False,False
+4910332,56,Espanyol,Anna Torroda,False,0,0,0,1,drawing,winning,False,True,False
+4910333,2,Levante Badalona,Irina Uribe,True,0,0,1,0,drawing,winning,False,True,False
+4910334,24,Eibar,Carmen Álvarez,True,0,0,1,0,drawing,winning,False,True,False
+4910334,49,Madrid CFF,Emilie Nautnes,False,1,0,1,1,losing,drawing,True,False,False
+4910334,69,Madrid CFF,Kamilla Melgård,False,1,1,1,2,drawing,winning,False,True,False
+4910334,77,Madrid CFF,Emilie Nautnes,False,1,2,1,3,winning,winning,False,False,True
+4910335,11,Real Madrid,Athenea del Castillo,False,0,0,0,1,drawing,winning,False,True,False
+4910335,25,Real Madrid,Athenea del Castillo,False,0,1,0,2,winning,winning,False,False,False
+4910335,33,Levante,Dolores Silva,True,0,2,1,2,losing,losing,False,False,False
+4910336,18,UD Tenerife,Paola Hernández,True,0,0,1,0,drawing,winning,False,True,False
+4910336,68,UD Tenerife,Elba Verges,True,1,0,2,0,winning,winning,False,False,False
+4910336,85,UD Tenerife,Aleksandra Zaremba,True,2,0,3,0,winning,winning,False,False,True
+4910336,90,UD Tenerife,Ange N'Guessan,True,3,0,4,0,winning,winning,False,False,True
+4910336,90,UD Tenerife,Iratxe Perez,True,4,0,5,0,winning,winning,False,False,True
+4910337,25,Granada,Laura Perez,True,0,0,1,0,drawing,winning,False,True,False
+4910338,61,Real Sociedad,Esther Sullastres,False,0,0,0,1,drawing,winning,False,True,False
+4910338,72,Real Sociedad,Nerea Eizagirre,False,0,1,0,2,winning,winning,False,False,False
+4910340,60,Granada,Sonya Keefe,True,0,0,1,0,drawing,winning,False,True,False
+4910340,81,Granada,Andrea Gomez,True,1,0,2,0,winning,winning,False,False,True
+4910341,65,Athletic Club,Sara Ortega,False,0,0,0,1,drawing,winning,False,True,False
+4910342,4,Barcelona,Alexia Putellas,True,0,0,1,0,drawing,winning,False,True,False
+4910342,13,Barcelona,Claudia Pina,True,1,0,2,0,winning,winning,False,False,False
+4910342,59,Barcelona,Esmee Brugts,True,2,0,3,0,winning,winning,False,False,False
+4910342,74,Barcelona,Claudia Pina,True,3,0,4,0,winning,winning,False,False,False
+4910342,90,Barcelona,Salma Paralluelo,True,4,0,5,0,winning,winning,False,False,True
+4910343,43,Levante Badalona,Itziar Pinillos,False,0,0,0,1,drawing,winning,False,True,False
+4910344,17,Deportivo La Coruna,Esperanza Pizarro,False,0,0,0,1,drawing,winning,False,True,False
+4910344,25,Deportivo La Coruna,Paula Gutierrez,False,0,1,0,2,winning,winning,False,False,False
+4910344,58,Deportivo La Coruna,Esperanza Pizarro,False,0,2,0,3,winning,winning,False,False,False
+4910344,64,Deportivo La Coruna,Lucia Rivas,False,0,3,0,4,winning,winning,False,False,False
+4910345,17,Real Sociedad,Intza Eguiguren,True,0,0,1,0,drawing,winning,False,True,False
+4910345,79,Real Sociedad,Etxezarreta,True,1,0,2,0,winning,winning,False,False,True
+4910345,88,Real Sociedad,Eunate Astralaga,True,2,0,3,0,winning,winning,False,False,True
+4910346,20,Sevilla,Esther,True,0,0,1,0,drawing,winning,False,True,False
+4910346,40,Sevilla,Isabel Álvarez,True,1,0,2,0,winning,winning,False,False,False
+4910346,45,Levante,Raiderlin Carrasco,False,2,0,2,1,losing,losing,False,False,False
+4910346,45,Sevilla,Rosa Marquez,True,2,1,3,1,winning,winning,False,False,False
+4910346,49,Sevilla,Millaray Cortes,True,3,1,4,1,winning,winning,False,False,False
+4910346,65,Levante,Ana Franco,False,4,1,4,2,losing,losing,False,False,False
+4910347,6,Logrono,Isabel Corte,False,0,0,0,1,drawing,winning,False,True,False
+4910347,61,Logrono,Salome Prat,False,0,1,0,2,winning,winning,False,False,False
+4910347,75,Logrono,Iria Castro,False,0,2,0,3,winning,winning,False,False,True
+4910347,89,Logrono,Ximena Velazco,False,0,3,0,4,winning,winning,False,False,True
+4910348,50,Athletic Club,Clara Pinedo,True,0,0,1,0,drawing,winning,False,True,False
+4910348,80,Espanyol,Laia Ballesté,False,1,0,1,1,losing,drawing,True,False,True
+4910348,86,Athletic Club,Anna Torroda,True,1,1,2,1,drawing,winning,False,True,True
+4910349,12,Atletico Madrid,Synne Jensen,True,0,0,1,0,drawing,winning,False,True,False
+4910349,33,Granada,Andrea Gomez,False,1,0,1,1,losing,drawing,True,False,False
+4910350,45,Eibar,Laura Camino,False,0,0,0,1,drawing,winning,False,True,False
+4910350,54,Levante Badalona,Irina Uribe,True,0,1,1,1,losing,drawing,True,False,False
+4910350,85,Levante Badalona,Cristina Cubedo,True,1,1,2,1,drawing,winning,False,True,True
+4910351,15,Deportivo La Coruna,Lucia Martinez,True,0,0,1,0,drawing,winning,False,True,False
+4910351,17,Real Madrid,Rocio,False,1,0,1,1,losing,drawing,True,False,False
+4910351,21,Real Madrid,Signe Bruun,False,1,1,1,2,drawing,winning,False,True,False
+4910351,25,Deportivo La Coruna,Esperanza Pizarro,True,1,2,2,2,losing,drawing,True,False,False
+4910351,73,Real Madrid,Caroline Weir,False,2,2,2,3,drawing,winning,False,True,False
+4910351,89,Real Madrid,Caroline Weir,False,2,3,2,4,winning,winning,False,False,True
+4910352,24,Barcelona,Francisca Nazareth,True,0,0,1,0,drawing,winning,False,True,False
+4910352,31,Barcelona,Sydney Schertenleib,True,1,0,2,0,winning,winning,False,False,False
+4910352,63,Barcelona,Salma Paralluelo,True,2,0,3,0,winning,winning,False,False,False
+4910352,73,Barcelona,Francisca Nazareth,True,3,0,4,0,winning,winning,False,False,False
+4910352,85,Sevilla,Alba Cerrato,False,4,0,4,1,losing,losing,False,False,True
+4910353,21,Madrid CFF,Ana Marcos,False,0,0,0,1,drawing,winning,False,True,False
+4910353,66,Levante,Eva Alonso,True,0,1,1,1,losing,drawing,True,False,False
+4910353,86,Levante,Érika González,True,1,1,2,1,drawing,winning,False,True,True
+4910354,17,UD Tenerife,Iratxe Perez,True,0,0,1,0,drawing,winning,False,True,False
+4910354,29,Real Sociedad,Nahia Aparicio,False,1,0,1,1,losing,drawing,True,False,False
+4910355,50,Barcelona,Carla Juliá,False,0,0,0,1,drawing,winning,False,True,False
+4910355,52,Barcelona,Francisca Nazareth,False,0,1,0,2,winning,winning,False,False,False
+4910355,56,Barcelona,Vicky Lopez,False,0,2,0,3,winning,winning,False,False,False
+4910356,38,Granada,Laura Perez,False,0,0,0,1,drawing,winning,False,True,False
+4910356,44,Granada,Sonya Keefe,False,0,1,0,2,winning,winning,False,False,False
+4910357,39,UD Tenerife,Natalia Ramos,True,0,0,1,0,drawing,winning,False,True,False
+4910358,13,Sevilla,Lucia Moral,True,0,0,1,0,drawing,winning,False,True,False
+4910358,45,Sevilla,Fatoumata Kanteh,True,1,0,2,0,winning,winning,False,False,False
+4910358,55,Sevilla,Lucia Moral,True,2,0,3,0,winning,winning,False,False,False
+4910358,65,Sevilla,Raquel Morcillo,True,3,0,4,0,winning,winning,False,False,False
+4910359,7,Atletico Madrid,Silvia Lloris,False,0,0,0,1,drawing,winning,False,True,False
+4910360,15,Real Sociedad,Claire Lavogez,True,0,0,1,0,drawing,winning,False,True,False
+4910360,90,Real Sociedad,Nerea Eizagirre,True,1,0,2,0,winning,winning,False,False,True
+4910361,14,Deportivo La Coruna,Esperanza Pizarro,False,0,0,0,1,drawing,winning,False,True,False
+4910361,35,Madrid CFF,Emilie Nautnes,True,0,1,1,1,losing,drawing,True,False,False
+4910361,45,Deportivo La Coruna,Merle Barth,False,1,1,1,2,drawing,winning,False,True,False
+4910361,47,Deportivo La Coruna,Raquel Garcia,False,1,2,1,3,winning,winning,False,False,False
+4910361,58,Deportivo La Coruna,Vera Martinez,False,1,3,1,4,winning,winning,False,False,False
+4910361,64,Deportivo La Coruna,Paula Gutierrez,False,1,4,1,5,winning,winning,False,False,False
+4910361,87,Deportivo La Coruna,Paula Monteagudo,False,1,5,1,6,winning,winning,False,False,True
+4910362,6,Real Madrid,Signe Bruun,True,0,0,1,0,drawing,winning,False,True,False
+4910362,18,Real Madrid,Athenea del Castillo,True,1,0,2,0,winning,winning,False,False,False
+4910362,59,Real Madrid,Sara Holmgaard,True,2,0,3,0,winning,winning,False,False,False
+4910363,9,Real Madrid,Hanna Bennison,False,0,0,0,1,drawing,winning,False,True,False
+4910363,30,Real Madrid,Sandie Toletti,False,0,1,0,2,winning,winning,False,False,False
+4910363,48,Real Madrid,Alba Redondo,False,0,2,0,3,winning,winning,False,False,False
+4910364,15,Real Sociedad,Aiara Agirrezabala,False,0,0,0,1,drawing,winning,False,True,False
+4910364,35,Real Sociedad,Paula Fernandez,False,0,1,0,2,winning,winning,False,False,False
+4910366,67,UD Tenerife,Elba Verges,False,0,0,0,1,drawing,winning,False,True,False
+4910366,73,UD Tenerife,Claudia Blanco,False,0,1,0,2,winning,winning,False,False,False
+4910367,52,Sevilla,Lucia Moral,False,0,0,0,1,drawing,winning,False,True,False
+4910367,68,Sevilla,Lucia Moral,False,0,1,0,2,winning,winning,False,False,False
+4910367,72,Sevilla,Fatoumata Kanteh,False,0,2,0,3,winning,winning,False,False,False
+4910367,89,Sevilla,Andrea Alvarez,False,0,3,0,4,winning,winning,False,False,True
+4910368,31,Granada,Andrea Gomez,True,0,0,1,0,drawing,winning,False,True,False
+4910369,30,Espanyol,Laia Ballesté,True,0,0,1,0,drawing,winning,False,True,False
+4910369,61,Logrono,Isabel Corte,False,1,0,1,1,losing,drawing,True,False,False
+4910370,13,Barcelona,Ewa Pajor,True,0,0,1,0,drawing,winning,False,True,False
+4910370,35,Barcelona,Claudia Pina,True,1,0,2,0,winning,winning,False,False,False
+4910370,40,Barcelona,Patricia Guijarro,True,2,0,3,0,winning,winning,False,False,False
+4910370,61,Barcelona,Irene Paredes,True,3,0,4,0,winning,winning,False,False,False
+4910371,46,Real Madrid,Alba Redondo,True,0,0,1,0,drawing,winning,False,True,False
+4910371,59,Real Madrid,Filippa Angeldal,True,1,0,2,0,winning,winning,False,False,False
+4910372,8,Madrid CFF,Allegra Poljak,True,0,0,1,0,drawing,winning,False,True,False
+4910372,12,Madrid CFF,Kamilla Melgård,True,1,0,2,0,winning,winning,False,False,False
+4910372,14,Madrid CFF,Emilie Nautnes,True,2,0,3,0,winning,winning,False,False,False
+4910372,64,Madrid CFF,Kamilla Melgård,True,3,0,4,0,winning,winning,False,False,False
+4910372,65,Madrid CFF,Emilie Nautnes,True,4,0,5,0,winning,winning,False,False,False
+4910373,90,Athletic Club,Daniela Agote,False,0,0,0,1,drawing,winning,False,True,True
+4910374,19,Sevilla,Andrea Alvarez,True,0,0,1,0,drawing,winning,False,True,False
+4910374,45,Sevilla,Andrea Alvarez,True,1,0,2,0,winning,winning,False,False,False
+4910374,47,Atletico Madrid,Xènia Pérez,False,2,0,2,1,losing,losing,False,False,False
+4910375,33,Levante Badalona,Lice Chamorro,False,0,0,0,1,drawing,winning,False,True,False
+4910375,63,Levante Badalona,Estefania Banini,False,0,1,0,2,winning,winning,False,False,False
+4910375,73,Logrono,Salome Prat,True,0,2,1,2,losing,losing,False,False,False
+4910375,78,Levante Badalona,Irina Uribe,False,1,2,1,3,winning,winning,False,False,True
+4910375,90,Logrono,Ximena Velazco,True,1,3,2,3,losing,losing,False,False,True
+4910376,3,Levante,Raiderlin Carrasco,True,0,0,1,0,drawing,winning,False,True,False
+4910376,41,Deportivo La Coruna,Esperanza Pizarro,False,1,0,1,1,losing,drawing,True,False,False
+4910376,58,Deportivo La Coruna,Marisa,False,1,1,1,2,drawing,winning,False,True,False
+4910377,9,Real Sociedad,Lucia Pardo,True,0,0,1,0,drawing,winning,False,True,False
+4910377,37,Real Sociedad,Lucia Pardo,True,1,0,2,0,winning,winning,False,False,False
+4910377,51,Espanyol,Phoenetia Browne,False,2,0,2,1,losing,losing,False,False,False
+4910378,12,Barcelona,Caroline Graham Hansen,False,0,0,0,1,drawing,winning,False,True,False
+4910378,28,Barcelona,Aicha Camara,False,0,1,0,2,winning,winning,False,False,False
+4910379,37,Sevilla,Fatoumata Kanteh,False,0,0,0,1,drawing,winning,False,True,False
+4910380,26,Madrid CFF,Ángela Sosa,False,0,0,0,1,drawing,winning,False,True,False
+4910380,31,Athletic Club,Sara Ortega,True,0,1,1,1,losing,drawing,True,False,False
+4910380,47,Athletic Club,Jone Amezaga,True,1,1,2,1,drawing,winning,False,True,False
+4910380,68,Athletic Club,Leire Baños,True,2,1,3,1,winning,winning,False,False,False
+4910380,73,Athletic Club,Ane Azkona,True,3,1,4,1,winning,winning,False,False,False
+4910381,14,Atletico Madrid,Amaiur Sarriegi,True,0,0,1,0,drawing,winning,False,True,False
+4910381,35,Atletico Madrid,Amaiur Sarriegi,True,1,0,2,0,winning,winning,False,False,False
+4910381,40,Atletico Madrid,Amaiur Sarriegi,True,2,0,3,0,winning,winning,False,False,False
+4910381,59,Atletico Madrid,Fiamma Benítez,True,3,0,4,0,winning,winning,False,False,False
+4910381,89,Atletico Madrid,Sheila Guijarro,True,4,0,5,0,winning,winning,False,False,True
+4910382,18,Granada,Lauri,False,0,0,0,1,drawing,winning,False,True,False
+4910382,28,Granada,Sonya Keefe,False,0,1,0,2,winning,winning,False,False,False
+4910382,59,Granada,Laura Pérez,False,0,2,0,3,winning,winning,False,False,False
+4910382,90,Granada,Laura Pérez,False,0,3,0,4,winning,winning,False,False,True
+4910383,65,Barcelona,Marta Torrejón,False,0,0,0,1,drawing,winning,False,True,False
+4910383,78,Barcelona,Alexia Putellas,False,0,1,0,2,winning,winning,False,False,True
+4910384,41,Espanyol,Ona Baradad,True,0,0,1,0,drawing,winning,False,True,False
+4910384,64,Espanyol,Lucía Vallejo,True,1,0,2,0,winning,winning,False,False,False
+4910385,16,UD Tenerife,Iratxe Pérez,True,0,0,1,0,drawing,winning,False,True,False
+4910385,85,UD Tenerife,Carlota Suárez,True,1,0,2,0,winning,winning,False,False,True
+4910385,90,UD Tenerife,Paulina Gramaglia,True,2,0,3,0,winning,winning,False,False,True
+4910385,90,UD Tenerife,Patri,True,3,0,4,0,winning,winning,False,False,True
+4910386,72,Real Madrid,Sandie Toletti,False,0,0,0,1,drawing,winning,False,True,False
+4910386,79,Real Madrid,Sara Holmgaard,False,0,1,0,2,winning,winning,False,False,True
+4910386,84,Real Madrid,Eva Navarro,False,0,2,0,3,winning,winning,False,False,True
+4910387,76,Alhama CF,Estefa Lima,True,0,0,1,0,drawing,winning,False,True,True
+4910387,79,Atletico Madrid,Fiamma Benítez,False,1,0,1,1,losing,drawing,True,False,True
+4910387,90,Atletico Madrid,Rosa Otermín,False,1,1,1,2,drawing,winning,False,True,True
+4910388,22,UD Tenerife,Aleksandra Zaremba,False,0,0,0,1,drawing,winning,False,True,False
+4910389,24,Real Madrid,Rocío,False,0,0,0,1,drawing,winning,False,True,False
+4910390,52,Real Sociedad,Klára Cahynová,False,0,0,0,1,drawing,winning,False,True,False
+4910391,11,Barcelona,Salma Paralluelo,True,0,0,1,0,drawing,winning,False,True,False
+4910391,15,Barcelona,Clàudia Pina,True,1,0,2,0,winning,winning,False,False,False
+4910391,41,Barcelona,Carla Juliá,True,2,0,3,0,winning,winning,False,False,False
+4910391,45,Barcelona,Sydney Schertenleib,True,3,0,4,0,winning,winning,False,False,False
+4910391,58,Barcelona,Clàudia Pina,True,4,0,5,0,winning,winning,False,False,False
+4910391,69,Athletic Club,Daniela Agote,False,5,0,5,1,losing,losing,False,False,False
+4910391,80,Barcelona,Francisca Nazareth,True,5,1,6,1,winning,winning,False,False,True
+4910391,82,Barcelona,Francisca Nazareth,True,6,1,7,1,winning,winning,False,False,True
+4910392,31,Levante Badalona,Itziar Pinillos,False,0,0,0,1,drawing,winning,False,True,False
+4910392,40,Levante Badalona,Itziar Pinillos,False,0,1,0,2,winning,winning,False,False,False
+4910392,45,Sevilla,Fatoumata Kanteh,True,0,2,1,2,losing,losing,False,False,False
+4910392,59,Levante Badalona,Lice Chamorro,False,1,2,1,3,winning,winning,False,False,False
+4910392,85,Levante Badalona,Paula Sánchez,False,1,3,1,4,winning,winning,False,False,True
+4910392,90,Levante Badalona,Loreta Kullashi,False,1,4,1,5,winning,winning,False,False,True
+4910393,90,Granada,Laura Pérez,True,0,0,1,0,drawing,winning,False,True,True
+4910394,7,Madrid CFF,Ana Marcos,True,0,0,1,0,drawing,winning,False,True,False
+4910394,26,Espanyol,Phoenetia Browne,False,1,0,1,1,losing,drawing,True,False,False
+4910395,20,Atletico Madrid,Natalia Peñalvo,False,0,0,0,1,drawing,winning,False,True,False
+4910395,39,Athletic Club,Nerea Nevado,True,0,1,1,1,losing,drawing,True,False,False
+4910395,48,Atletico Madrid,Fiamma Benítez,False,1,1,1,2,drawing,winning,False,True,False
+4910396,8,Eibar,Iara Lacosta,False,0,0,0,1,drawing,winning,False,True,False
+4910396,10,Deportivo La Coruna,Esperanza Pizarro,True,0,1,1,1,losing,drawing,True,False,False
+4910396,45,Deportivo La Coruna,Olaya Rodríguez,True,1,1,2,1,drawing,winning,False,True,False
+4910397,41,Espanyol,Naima,True,0,0,1,0,drawing,winning,False,True,False
+4910398,10,Levante Badalona,María Llompart,True,0,0,1,0,drawing,winning,False,True,False
+4910398,65,Levante Badalona,Estefanía Banini,True,1,0,2,0,winning,winning,False,False,False
+4910398,72,Alhama CF,Vega Montesinos,False,2,0,2,1,losing,losing,False,False,False
+4910398,79,Levante Badalona,Itziar Pinillos,True,2,1,3,1,winning,winning,False,False,True
+4910398,90,Alhama CF,Patri Miñano,False,3,1,3,2,losing,losing,False,False,True
+4910399,34,Real Sociedad,Rebeca da Silva,True,0,0,1,0,drawing,winning,False,True,False
+4910399,86,Logrono,Mía Asenjo,False,1,0,1,1,losing,drawing,True,False,True
+4910400,18,Barcelona,Ona Batlle,False,0,0,0,1,drawing,winning,False,True,False
+4910400,51,Barcelona,Alexia Putellas,False,0,1,0,2,winning,winning,False,False,False
+4910400,55,Barcelona,Maëlle Lakrar,False,0,2,0,3,winning,winning,False,False,False
+4910401,89,Granada,Manoly Baquerizo,False,0,0,0,1,drawing,winning,False,True,True
+4910402,15,UD Tenerife,Natalia Ramos,True,0,0,1,0,drawing,winning,False,True,False
+4910402,25,UD Tenerife,Natalia Ramos,True,1,0,2,0,winning,winning,False,False,False
+4910403,7,Alhama CF,Belén,True,0,0,1,0,drawing,winning,False,True,False
+4910403,18,Real Sociedad,Claire Lavogez,False,1,0,1,1,losing,drawing,True,False,False
+4910403,32,Real Sociedad,Paula Fernández,False,1,1,1,2,drawing,winning,False,True,False
+4910403,45,Real Sociedad,Claire Lavogez,False,1,2,1,3,winning,winning,False,False,False
+4910403,56,Real Sociedad,Aiara Agirrezabala,False,1,3,1,4,winning,winning,False,False,False
+4910403,71,Real Sociedad,Nerea Eizagirre,False,1,4,1,5,winning,winning,False,False,False
+4910404,3,Atletico Madrid,Vilde Bøe Risa,True,0,0,1,0,drawing,winning,False,True,False
+4910404,83,Atletico Madrid,Giovana Queiroz,True,1,0,2,0,winning,winning,False,False,True
+4910405,14,Logrono,Rebeca da Silva,True,0,0,1,0,drawing,winning,False,True,False
+4910405,40,Sevilla,Millaray Cortés,False,1,0,1,1,losing,drawing,True,False,False
+4910405,45,Logrono,Isina,True,1,1,2,1,drawing,winning,False,True,False
+4910407,48,Real Madrid,Linda Caicedo,False,0,0,0,1,drawing,winning,False,True,False
+4910407,73,Real Madrid,Sara Däbritz,False,0,1,0,2,winning,winning,False,False,False
+4910408,90,Athletic Club,Ane Campos,False,0,0,0,1,drawing,winning,False,True,True
+4910409,18,Barcelona,Salma Paralluelo,True,0,0,1,0,drawing,winning,False,True,False
+4910409,50,Barcelona,Marta Torrejón,True,1,0,2,0,winning,winning,False,False,False
+4910409,52,Barcelona,Sydney Schertenleib,True,2,0,3,0,winning,winning,False,False,False
+4910409,60,Barcelona,Esmee Brugts,True,3,0,4,0,winning,winning,False,False,False
+4910409,73,Barcelona,Mapi León,True,4,0,5,0,winning,winning,False,False,False
+4910409,79,Barcelona,Martine Fenger,True,5,0,6,0,winning,winning,False,False,True
+4910410,26,Granada,Manoly Baquerizo,True,0,0,1,0,drawing,winning,False,True,False
+4910410,90,Granada,Manoly Baquerizo,True,1,0,2,0,winning,winning,False,False,True
+4910411,16,Granada,Manoly Baquerizo,False,0,0,0,1,drawing,winning,False,True,False
+4910411,66,Granada,Andrea Gómez,False,0,1,0,2,winning,winning,False,False,False
+4910411,90,Athletic Club,Ane Elexpuru,True,0,2,1,2,losing,losing,False,False,True
+4910412,1,Eibar,Iara Lacosta,True,0,0,1,0,drawing,winning,False,True,False
+4910412,78,Eibar,Garazi Fácila,True,1,0,2,0,winning,winning,False,False,True
+4910412,85,Levante,Inés Rizo,False,2,0,2,1,losing,losing,False,False,True
+4910413,2,Barcelona,Carla Juliá,False,0,0,0,1,drawing,winning,False,True,False
+4910413,28,Espanyol,Laia Ballesté,True,0,1,1,1,losing,drawing,True,False,False
+4910413,30,Barcelona,Caroline Graham Hansen,False,1,1,1,2,drawing,winning,False,True,False
+4910413,56,Barcelona,Martine Fenger,False,1,2,1,3,winning,winning,False,False,False
+4910413,83,Barcelona,Martine Fenger,False,1,3,1,4,winning,winning,False,False,True
+4910414,35,Alhama CF,Belén,False,0,0,0,1,drawing,winning,False,True,False
+4910414,45,Deportivo La Coruna,Paula Gutiérrez,True,0,1,1,1,losing,drawing,True,False,False
+4910414,45,Deportivo La Coruna,Bárbara Latorre,True,1,1,2,1,drawing,winning,False,True,False
+4910414,81,Alhama CF,Yaiza Relea,False,2,1,2,2,losing,drawing,True,False,True
+4910415,6,Atletico Madrid,Priscila Chinchilla,False,0,0,0,1,drawing,winning,False,True,False
+4910415,23,Atletico Madrid,Priscila Chinchilla,False,0,1,0,2,winning,winning,False,False,False
+4910415,36,Levante Badalona,Itziar Pinillos,True,0,2,1,2,losing,losing,False,False,False
+4910415,60,Levante Badalona,Irina Uribe,True,1,2,2,2,losing,drawing,True,False,False
+4910415,84,Atletico Madrid,Júlia Bartel,False,2,2,2,3,drawing,winning,False,True,True
+4910415,90,Atletico Madrid,Luany,False,2,3,2,4,winning,winning,False,False,True
+4910416,4,Real Madrid,Linda Caicedo,True,0,0,1,0,drawing,winning,False,True,False
+4910416,90,Logrono,Annelie Leitner,False,1,0,1,1,losing,drawing,True,False,True
+4910417,37,Real Sociedad,Claire Lavogez,True,0,0,1,0,drawing,winning,False,True,False
+4910417,90,Real Sociedad,Cecilia Marcos,True,1,0,2,0,winning,winning,False,False,True
+4910418,27,UD Tenerife,Paola Hernández,True,0,0,1,0,drawing,winning,False,True,False
+4910418,45,UD Tenerife,Carlota Suárez,True,1,0,2,0,winning,winning,False,False,False
+4910418,45,UD Tenerife,Natalia Ramos,True,2,0,3,0,winning,winning,False,False,False
+4910419,3,Alhama CF,Belén,True,0,0,1,0,drawing,winning,False,True,False
+4910419,14,Alhama CF,Vega Berasategui,True,1,0,2,0,winning,winning,False,False,False
+4910419,30,Espanyol,Phoenetia Browne,False,2,0,2,1,losing,losing,False,False,False
+4910419,52,Alhama CF,Yiyi,True,2,1,3,1,winning,winning,False,False,False
+4910420,61,Atletico Madrid,Giovana Queiroz,True,0,0,1,0,drawing,winning,False,True,False
+4910420,71,Atletico Madrid,Vilde Bøe Risa,True,1,0,2,0,winning,winning,False,False,False
+4910420,85,Atletico Madrid,Júlia Bartel,True,2,0,3,0,winning,winning,False,False,True
+4910420,90,Atletico Madrid,Giovana Queiroz,True,3,0,4,0,winning,winning,False,False,True
+4910421,1,Deportivo La Coruna,Bárbara Latorre,True,0,0,1,0,drawing,winning,False,True,False
+4910421,47,Real Sociedad,Paula Fernández,False,1,0,1,1,losing,drawing,True,False,False
+4910421,71,Real Sociedad,Cecilia Marcos,False,1,1,1,2,drawing,winning,False,True,False
+4910422,29,Logrono,Annelie Leitner,True,0,0,1,0,drawing,winning,False,True,False
+4910422,85,Logrono,Flavine Mawete,True,1,0,2,0,winning,winning,False,False,True
+4910422,88,Logrono,Isina,True,2,0,3,0,winning,winning,False,False,True
+4910423,15,Barcelona,Vicky López,True,0,0,1,0,drawing,winning,False,True,False
+4910423,34,Barcelona,Clàudia Pina,True,1,0,2,0,winning,winning,False,False,False
+4910423,51,Barcelona,Clàudia Pina,True,2,0,3,0,winning,winning,False,False,False
+4910423,66,Barcelona,Carla Juliá,True,3,0,4,0,winning,winning,False,False,False
+4910423,86,Barcelona,Sydney Schertenleib,True,4,0,5,0,winning,winning,False,False,True
+4910424,28,Granada,Lauri,True,0,0,1,0,drawing,winning,False,True,False
+4910424,31,UD Tenerife,Paulina Gramaglia,False,1,0,1,1,losing,drawing,True,False,False
+4910425,35,Athletic Club,Ane Azkona,False,0,0,0,1,drawing,winning,False,True,False
+4910426,52,Real Madrid,Alba Redondo,False,0,0,0,1,drawing,winning,False,True,False
+4910426,90,Real Madrid,Naomie Feller,False,0,1,0,2,winning,winning,False,False,True
+4910427,55,Deportivo La Coruna,Ainhoa Marín,False,0,0,0,1,drawing,winning,False,True,False
+4910428,26,Madrid CFF,Mônica,True,0,0,1,0,drawing,winning,False,True,False
+4910428,76,Madrid CFF,Nerea Sánchez,True,1,0,2,0,winning,winning,False,False,True
+4910429,21,Eibar,Laura Camino,True,0,0,1,0,drawing,winning,False,True,False
+4910429,67,Eibar,Carmen Álvarez,True,1,0,2,0,winning,winning,False,False,False
+4910430,25,Real Madrid,Caroline Weir,True,0,0,1,0,drawing,winning,False,True,False
+4910431,22,Levante Badalona,Ana González,False,0,0,0,1,drawing,winning,False,True,False
+4910431,31,Espanyol,Ainoa Campo,True,0,1,1,1,losing,drawing,True,False,False
+4910432,23,UD Tenerife,Paulina Gramaglia,True,0,0,1,0,drawing,winning,False,True,False
+4910432,45,Barcelona,Esmee Brugts,False,1,0,1,1,losing,drawing,True,False,False
+4910432,66,Barcelona,Francisca Nazareth,False,1,1,1,2,drawing,winning,False,True,False
+4910432,88,Barcelona,Clàudia Pina,False,1,2,1,3,winning,winning,False,False,True
+4910433,20,Real Sociedad,Cecilia Marcos,True,0,0,1,0,drawing,winning,False,True,False
+4910433,66,Real Sociedad,Claire Lavogez,True,1,0,2,0,winning,winning,False,False,False
+4910433,83,Real Sociedad,Klára Cahynová,True,2,0,3,0,winning,winning,False,False,True
+4910434,51,Logrono,Isina,False,0,0,0,1,drawing,winning,False,True,False
+4910434,66,Logrono,Annelie Leitner,False,0,1,0,2,winning,winning,False,False,False
+4910434,73,Logrono,Ximena Velazco,False,0,2,0,3,winning,winning,False,False,False
+4910434,84,Levante,Ariana Arias,True,0,3,1,3,losing,losing,False,False,True
+4910434,90,Logrono,Iria Castro,False,1,3,1,4,winning,winning,False,False,True

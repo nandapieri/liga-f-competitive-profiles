@@ -1,0 +1,241 @@
+match_id,round,date,home_team,away_team,home_goals,away_goals,winner,first_goal_team,first_goal_minute
+4910211,1,2025-08-30T10:00:00.000Z,Athletic Club,UD Tenerife,0,0,Draw,,
+4910212,1,2025-08-31T18:00:00.000Z,Logrono,Real Madrid,2,2,Draw,Real Madrid,33.0
+4910213,1,2025-08-31T10:00:00.000Z,Eibar,Sevilla,0,1,Sevilla,Sevilla,26.0
+4910214,1,2025-08-31T16:00:00.000Z,Madrid CFF,Real Sociedad,2,2,Draw,Real Sociedad,23.0
+4910215,1,2025-08-30T18:00:00.000Z,Barcelona,Alhama CF,8,0,Barcelona,Barcelona,5.0
+4910216,1,2025-08-31T10:00:00.000Z,Espanyol,Atletico Madrid,0,5,Atletico Madrid,Atletico Madrid,34.0
+4910217,1,2025-08-30T16:00:00.000Z,Deportivo La Coruna,Levante Badalona,0,0,Draw,,
+4910218,1,2025-08-30T10:00:00.000Z,Levante,Granada,1,2,Granada,Granada,17.0
+4910219,2,2025-09-07T10:00:00.000Z,Athletic Club,Barcelona,1,8,Barcelona,Barcelona,15.0
+4910220,2,2025-09-05T18:00:00.000Z,Atletico Madrid,Real Madrid,2,1,Atletico Madrid,Atletico Madrid,17.0
+4910221,2,2025-09-06T18:00:00.000Z,Logrono,Real Sociedad,0,1,Real Sociedad,Real Sociedad,90.0
+4910222,2,2025-09-06T10:00:00.000Z,Sevilla,UD Tenerife,0,4,UD Tenerife,UD Tenerife,20.0
+4910223,2,2025-09-07T17:00:00.000Z,Levante,Alhama CF,0,0,Draw,,
+4910224,2,2025-09-07T10:00:00.000Z,Granada,Levante Badalona,0,2,Levante Badalona,Levante Badalona,21.0
+4910225,2,2025-09-06T10:00:00.000Z,Espanyol,Deportivo La Coruna,1,1,Draw,Espanyol,41.0
+4910226,2,2025-09-06T16:00:00.000Z,Madrid CFF,Eibar,1,0,Madrid CFF,Madrid CFF,80.0
+4910227,3,2025-09-13T18:00:00.000Z,Alhama CF,Granada,1,1,Draw,Alhama CF,6.0
+4910228,3,2025-09-14T18:00:00.000Z,Atletico Madrid,Levante,4,0,Atletico Madrid,Atletico Madrid,8.0
+4910229,3,2025-09-13T10:00:00.000Z,Real Sociedad,Sevilla,3,0,Real Sociedad,Real Sociedad,9.0
+4910230,3,2025-09-14T10:00:00.000Z,Deportivo La Coruna,Athletic Club,1,0,Deportivo La Coruna,Deportivo La Coruna,32.0
+4910231,3,2025-09-14T14:00:00.000Z,Eibar,Levante Badalona,0,0,Draw,,
+4910232,3,2025-09-12T18:00:00.000Z,Barcelona,Logrono,4,0,Barcelona,Barcelona,21.0
+4910233,3,2025-09-13T15:00:00.000Z,UD Tenerife,Espanyol,0,0,Draw,,
+4910234,3,2025-09-14T16:00:00.000Z,Real Madrid,Madrid CFF,2,1,Real Madrid,Real Madrid,17.0
+4910235,4,2025-09-21T10:00:00.000Z,Alhama CF,UD Tenerife,0,4,UD Tenerife,UD Tenerife,38.0
+4910236,4,2025-09-20T14:00:00.000Z,Levante Badalona,Logrono,0,0,Draw,,
+4910237,4,2025-09-20T10:00:00.000Z,Espanyol,Athletic Club,1,1,Draw,Espanyol,34.0
+4910238,4,2025-09-21T10:00:00.000Z,Madrid CFF,Atletico Madrid,1,1,Draw,Madrid CFF,54.0
+4910239,4,2025-09-21T16:30:00.000Z,Real Madrid,Deportivo La Coruna,4,0,Real Madrid,Real Madrid,2.0
+4910240,4,2025-09-20T10:00:00.000Z,Granada,Eibar,3,1,Granada,Eibar,25.0
+4910241,4,2025-09-21T14:00:00.000Z,Sevilla,Barcelona,0,5,Barcelona,Barcelona,19.0
+4910242,4,2025-09-20T16:30:00.000Z,Real Sociedad,Levante,2,1,Real Sociedad,Real Sociedad,16.0
+4910243,5,2025-09-28T10:00:00.000Z,Athletic Club,Sevilla,1,1,Draw,Athletic Club,28.0
+4910244,5,2025-09-27T10:00:00.000Z,Levante Badalona,Real Sociedad,0,2,Real Sociedad,Real Sociedad,49.0
+4910245,5,2025-09-28T14:00:00.000Z,Deportivo La Coruna,Madrid CFF,1,2,Madrid CFF,Madrid CFF,45.0
+4910246,5,2025-09-27T10:00:00.000Z,Logrono,Alhama CF,2,4,Alhama CF,Logrono,18.0
+4910247,5,2025-09-28T10:00:00.000Z,Granada,Atletico Madrid,0,4,Atletico Madrid,Atletico Madrid,47.0
+4910248,5,2025-09-28T10:00:00.000Z,Levante,Eibar,0,1,Eibar,Eibar,39.0
+4910249,5,2025-09-27T16:30:00.000Z,Barcelona,Espanyol,2,0,Barcelona,Barcelona,21.0
+4910250,5,2025-09-28T15:30:00.000Z,UD Tenerife,Real Madrid,0,0,Draw,,
+4910251,6,2025-10-05T10:00:00.000Z,Alhama CF,Deportivo La Coruna,3,1,Alhama CF,Alhama CF,14.0
+4910252,6,2025-10-05T14:00:00.000Z,Logrono,Granada,1,1,Draw,Granada,4.0
+4910253,6,2025-10-04T13:00:00.000Z,Eibar,Barcelona,0,4,Barcelona,Barcelona,14.0
+4910254,6,2025-10-04T10:00:00.000Z,Real Sociedad,UD Tenerife,1,2,UD Tenerife,UD Tenerife,12.0
+4910255,6,2025-10-04T10:00:00.000Z,Atletico Madrid,Athletic Club,1,1,Draw,Atletico Madrid,86.0
+4910256,6,2025-10-04T15:00:00.000Z,Real Madrid,Levante Badalona,3,0,Real Madrid,Real Madrid,26.0
+4910257,6,2025-10-04T16:30:00.000Z,Sevilla,Espanyol,1,0,Sevilla,Sevilla,45.0
+4910258,6,2025-10-05T16:30:00.000Z,Madrid CFF,Levante,2,0,Madrid CFF,Madrid CFF,8.0
+4910259,7,2025-10-12T15:00:00.000Z,Athletic Club,Real Madrid,1,4,Real Madrid,Real Madrid,14.0
+4910260,7,2025-10-12T10:00:00.000Z,Atletico Madrid,Barcelona,0,6,Barcelona,Barcelona,2.0
+4910261,7,2025-10-11T10:00:00.000Z,Levante Badalona,Madrid CFF,1,0,Levante Badalona,Levante Badalona,19.0
+4910262,7,2025-10-11T17:00:00.000Z,Deportivo La Coruna,Logrono,2,2,Draw,Deportivo La Coruna,8.0
+4910263,7,2025-10-11T10:00:00.000Z,Granada,Real Sociedad,2,2,Draw,Granada,35.0
+4910264,7,2025-10-12T10:00:00.000Z,Levante,Sevilla,0,1,Sevilla,Sevilla,85.0
+4910265,7,2025-10-11T14:30:00.000Z,Espanyol,Alhama CF,3,0,Espanyol,Espanyol,9.0
+4910266,7,2025-10-12T10:00:00.000Z,UD Tenerife,Eibar,0,1,Eibar,Eibar,87.0
+4910267,8,2025-10-18T14:00:00.000Z,Alhama CF,Athletic Club,0,0,Draw,,
+4910268,8,2025-10-18T16:30:00.000Z,Logrono,Espanyol,0,2,Espanyol,Espanyol,19.0
+4910269,8,2025-10-19T10:00:00.000Z,Eibar,Real Sociedad,0,3,Real Sociedad,Real Sociedad,58.0
+4910270,8,2025-10-19T16:00:00.000Z,Barcelona,Granada,2,0,Barcelona,Barcelona,51.0
+4910271,8,2025-10-19T10:00:00.000Z,Deportivo La Coruna,Atletico Madrid,1,1,Draw,Atletico Madrid,6.0
+4910272,8,2025-10-19T15:00:00.000Z,UD Tenerife,Levante Badalona,2,2,Draw,Levante Badalona,3.0
+4910273,8,2025-10-19T14:00:00.000Z,Real Madrid,Levante,4,0,Real Madrid,Real Madrid,17.0
+4910274,8,2025-10-19T10:00:00.000Z,Sevilla,Madrid CFF,1,3,Madrid CFF,Madrid CFF,32.0
+4910275,9,2025-11-02T11:00:00.000Z,Athletic Club,Logrono,0,0,Draw,,
+4910276,9,2025-11-01T11:00:00.000Z,Levante Badalona,Sevilla,0,0,Draw,,
+4910277,9,2025-11-01T17:30:00.000Z,Espanyol,Real Madrid,0,1,Real Madrid,Real Madrid,41.0
+4910278,9,2025-11-01T11:00:00.000Z,Levante,UD Tenerife,2,4,UD Tenerife,UD Tenerife,29.0
+4910279,9,2025-11-01T11:00:00.000Z,Atletico Madrid,Alhama CF,4,0,Atletico Madrid,Atletico Madrid,21.0
+4910280,9,2025-11-01T15:00:00.000Z,Eibar,Deportivo La Coruna,1,0,Eibar,Eibar,48.0
+4910281,9,2025-11-02T15:00:00.000Z,Real Sociedad,Barcelona,1,0,Real Sociedad,Real Sociedad,37.0
+4910282,9,2025-11-01T15:00:00.000Z,Madrid CFF,Granada,0,1,Granada,Granada,36.0
+4910283,10,2025-11-08T15:30:00.000Z,Athletic Club,Eibar,2,0,Athletic Club,Athletic Club,48.0
+4910284,10,2025-11-09T11:00:00.000Z,Levante Badalona,Levante,1,1,Draw,Levante,36.0
+4910285,10,2025-11-09T15:00:00.000Z,Espanyol,Real Sociedad,2,3,Real Sociedad,Real Sociedad,3.0
+4910286,10,2025-11-09T11:00:00.000Z,Granada,Sevilla,0,2,Sevilla,Sevilla,16.0
+4910287,10,2025-11-09T15:00:00.000Z,Madrid CFF,UD Tenerife,0,2,UD Tenerife,UD Tenerife,12.0
+4910288,10,2025-11-08T18:00:00.000Z,Real Madrid,Alhama CF,5,0,Real Madrid,Real Madrid,30.0
+4910289,10,2025-11-09T11:00:00.000Z,Logrono,Atletico Madrid,0,5,Atletico Madrid,Atletico Madrid,14.0
+4910290,10,2025-11-09T11:00:00.000Z,Barcelona,Deportivo La Coruna,8,0,Barcelona,Barcelona,16.0
+4910291,11,2025-11-15T11:00:00.000Z,Alhama CF,Madrid CFF,1,4,Madrid CFF,Madrid CFF,30.0
+4910292,11,2025-11-16T11:00:00.000Z,Atletico Madrid,Levante Badalona,2,0,Atletico Madrid,Atletico Madrid,38.0
+4910293,11,2025-11-14T18:30:00.000Z,Deportivo La Coruna,Levante,1,0,Deportivo La Coruna,Deportivo La Coruna,56.0
+4910294,11,2025-11-16T17:30:00.000Z,Eibar,Espanyol,1,2,Espanyol,Espanyol,15.0
+4910295,11,2025-11-15T15:00:00.000Z,Barcelona,Real Madrid,4,0,Barcelona,Barcelona,15.0
+4910296,11,2025-11-16T11:00:00.000Z,Real Sociedad,Athletic Club,1,1,Draw,Athletic Club,67.0
+4910297,11,2025-11-16T15:00:00.000Z,Sevilla,Logrono,1,0,Sevilla,Sevilla,73.0
+4910298,11,2025-11-16T12:00:00.000Z,UD Tenerife,Granada,2,2,Draw,UD Tenerife,7.0
+4910299,12,2025-11-22T15:00:00.000Z,Levante Badalona,Espanyol,1,1,Draw,Levante Badalona,43.0
+4910300,12,2025-11-23T11:00:00.000Z,Real Sociedad,Alhama CF,3,1,Real Sociedad,Real Sociedad,10.0
+4910301,12,2025-11-22T11:00:00.000Z,Granada,Athletic Club,1,5,Athletic Club,Athletic Club,11.0
+4910302,12,2025-11-23T12:00:00.000Z,UD Tenerife,Atletico Madrid,2,1,UD Tenerife,UD Tenerife,12.0
+4910303,12,2025-11-22T11:00:00.000Z,Sevilla,Deportivo La Coruna,3,1,Sevilla,Sevilla,17.0
+4910304,12,2025-11-22T17:00:00.000Z,Madrid CFF,Logrono,1,0,Madrid CFF,Madrid CFF,90.0
+4910305,12,2025-11-23T15:00:00.000Z,Real Madrid,Eibar,3,0,Real Madrid,Real Madrid,2.0
+4910306,12,2025-11-23T17:00:00.000Z,Levante,Barcelona,0,4,Barcelona,Barcelona,14.0
+4910307,13,2025-12-07T11:00:00.000Z,Alhama CF,Levante Badalona,0,1,Levante Badalona,Levante Badalona,90.0
+4910308,13,2025-12-07T11:00:00.000Z,Athletic Club,Levante,1,0,Athletic Club,Athletic Club,69.0
+4910309,13,2025-12-06T11:00:00.000Z,Atletico Madrid,Sevilla,2,2,Draw,Sevilla,16.0
+4910310,13,2025-12-06T11:00:00.000Z,Deportivo La Coruna,Granada,2,0,Deportivo La Coruna,Deportivo La Coruna,42.0
+4910311,13,2025-12-07T15:00:00.000Z,Logrono,Eibar,0,1,Eibar,Eibar,53.0
+4910312,13,2025-12-06T16:00:00.000Z,Espanyol,Madrid CFF,2,5,Madrid CFF,Espanyol,2.0
+4910313,13,2025-12-06T14:00:00.000Z,Barcelona,UD Tenerife,2,0,Barcelona,Barcelona,84.0
+4910314,13,2025-12-06T18:00:00.000Z,Real Madrid,Real Sociedad,1,0,Real Madrid,Real Madrid,43.0
+4910315,14,2025-12-13T14:00:00.000Z,Levante Badalona,Barcelona,1,5,Barcelona,Barcelona,5.0
+4910316,14,2025-12-13T11:00:00.000Z,Granada,Real Madrid,0,3,Real Madrid,Real Madrid,30.0
+4910317,14,2025-12-13T16:00:00.000Z,Sevilla,Alhama CF,2,1,Sevilla,Sevilla,20.0
+4910318,14,2025-12-14T11:00:00.000Z,Eibar,Atletico Madrid,2,2,Draw,Atletico Madrid,10.0
+4910319,14,2025-12-14T11:00:00.000Z,Real Sociedad,Deportivo La Coruna,3,0,Real Sociedad,Real Sociedad,47.0
+4910320,14,2025-12-14T11:00:00.000Z,UD Tenerife,Logrono,1,1,Draw,UD Tenerife,12.0
+4910321,14,2025-12-13T11:00:00.000Z,Levante,Espanyol,0,1,Espanyol,Espanyol,51.0
+4910322,14,2025-12-13T18:00:00.000Z,Madrid CFF,Athletic Club,0,2,Athletic Club,Athletic Club,44.0
+4910323,15,2026-01-10T11:00:00.000Z,Alhama CF,Eibar,0,1,Eibar,Eibar,65.0
+4910324,15,2026-01-10T14:00:00.000Z,Athletic Club,Levante Badalona,0,0,Draw,,
+4910325,15,2026-01-10T11:00:00.000Z,Atletico Madrid,Real Sociedad,5,5,Draw,Real Sociedad,6.0
+4910326,15,2026-01-11T11:00:00.000Z,Deportivo La Coruna,UD Tenerife,1,1,Draw,Deportivo La Coruna,12.0
+4910327,15,2026-01-11T11:00:00.000Z,Logrono,Levante,2,3,Levante,Levante,7.0
+4910328,15,2026-01-11T11:00:00.000Z,Espanyol,Granada,0,2,Granada,Granada,63.0
+4910329,15,2026-01-10T18:00:00.000Z,Barcelona,Madrid CFF,12,1,Barcelona,Barcelona,9.0
+4910330,15,2026-01-10T16:00:00.000Z,Real Madrid,Sevilla,2,0,Real Madrid,Real Madrid,23.0
+4910331,16,2026-01-18T11:00:00.000Z,Alhama CF,Barcelona,0,2,Barcelona,Barcelona,22.0
+4910332,16,2026-01-17T15:30:00.000Z,Atletico Madrid,Espanyol,0,1,Espanyol,Espanyol,56.0
+4910333,16,2026-01-18T11:00:00.000Z,Levante Badalona,Deportivo La Coruna,1,0,Levante Badalona,Levante Badalona,2.0
+4910334,16,2026-01-17T17:30:00.000Z,Eibar,Madrid CFF,1,3,Madrid CFF,Eibar,24.0
+4910335,16,2026-01-17T11:00:00.000Z,Levante,Real Madrid,1,2,Real Madrid,Real Madrid,11.0
+4910336,16,2026-01-18T11:00:00.000Z,UD Tenerife,Athletic Club,5,0,UD Tenerife,UD Tenerife,18.0
+4910337,16,2026-01-17T11:00:00.000Z,Granada,Logrono,1,0,Granada,Granada,25.0
+4910338,16,2026-01-18T15:00:00.000Z,Sevilla,Real Sociedad,0,2,Real Sociedad,Real Sociedad,61.0
+4910339,17,2026-01-25T11:00:00.000Z,Espanyol,UD Tenerife,0,0,Draw,,
+4910340,17,2026-01-25T17:00:00.000Z,Granada,Alhama CF,2,0,Granada,Granada,60.0
+4910341,17,2026-01-13T18:00:00.000Z,Real Madrid,Athletic Club,0,1,Athletic Club,Athletic Club,65.0
+4910342,17,2026-01-14T18:00:00.000Z,Barcelona,Atletico Madrid,5,0,Barcelona,Barcelona,4.0
+4910343,17,2026-01-25T15:00:00.000Z,Madrid CFF,Levante Badalona,0,1,Levante Badalona,Levante Badalona,43.0
+4910344,17,2026-01-25T15:00:00.000Z,Logrono,Deportivo La Coruna,0,4,Deportivo La Coruna,Deportivo La Coruna,17.0
+4910345,17,2026-01-25T11:00:00.000Z,Real Sociedad,Eibar,3,0,Real Sociedad,Real Sociedad,17.0
+4910346,17,2026-01-25T11:00:00.000Z,Sevilla,Levante,4,2,Sevilla,Sevilla,20.0
+4910347,18,2026-01-31T16:00:00.000Z,Alhama CF,Logrono,0,4,Logrono,Logrono,6.0
+4910348,18,2026-01-31T15:15:00.000Z,Athletic Club,Espanyol,2,1,Athletic Club,Athletic Club,50.0
+4910349,18,2026-01-31T11:00:00.000Z,Atletico Madrid,Granada,1,1,Draw,Atletico Madrid,12.0
+4910350,18,2026-02-01T11:00:00.000Z,Levante Badalona,Eibar,2,1,Levante Badalona,Eibar,45.0
+4910351,18,2026-02-01T11:00:00.000Z,Deportivo La Coruna,Real Madrid,2,4,Real Madrid,Deportivo La Coruna,15.0
+4910352,18,2026-02-01T15:30:00.000Z,Barcelona,Sevilla,4,1,Barcelona,Barcelona,24.0
+4910353,18,2026-01-31T11:00:00.000Z,Levante,Madrid CFF,2,1,Levante,Madrid CFF,21.0
+4910354,18,2026-02-01T12:00:00.000Z,UD Tenerife,Real Sociedad,1,1,Draw,UD Tenerife,17.0
+4910355,19,2026-02-08T17:00:00.000Z,Logrono,Barcelona,0,3,Barcelona,Barcelona,50.0
+4910356,19,2026-02-07T11:00:00.000Z,Eibar,Granada,0,2,Granada,Granada,38.0
+4910357,19,2026-02-08T11:00:00.000Z,UD Tenerife,Alhama CF,1,0,UD Tenerife,UD Tenerife,39.0
+4910358,19,2026-02-08T11:00:00.000Z,Sevilla,Athletic Club,4,0,Sevilla,Sevilla,13.0
+4910359,19,2026-02-08T11:00:00.000Z,Levante,Atletico Madrid,0,1,Atletico Madrid,Atletico Madrid,7.0
+4910360,19,2026-02-08T15:00:00.000Z,Real Sociedad,Levante Badalona,2,0,Real Sociedad,Real Sociedad,15.0
+4910361,19,2026-02-08T13:00:00.000Z,Madrid CFF,Deportivo La Coruna,1,6,Deportivo La Coruna,Deportivo La Coruna,14.0
+4910362,19,2026-02-08T15:00:00.000Z,Real Madrid,Espanyol,3,0,Real Madrid,Real Madrid,6.0
+4910363,20,2026-02-15T11:00:00.000Z,Alhama CF,Real Madrid,0,3,Real Madrid,Real Madrid,9.0
+4910364,20,2026-02-15T11:00:00.000Z,Athletic Club,Real Sociedad,0,2,Real Sociedad,Real Sociedad,15.0
+4910365,20,2026-02-15T17:30:00.000Z,Atletico Madrid,Madrid CFF,0,0,Draw,,
+4910366,20,2026-02-14T11:00:00.000Z,Levante Badalona,UD Tenerife,0,2,UD Tenerife,UD Tenerife,67.0
+4910367,20,2026-02-14T15:00:00.000Z,Deportivo La Coruna,Sevilla,0,4,Sevilla,Sevilla,52.0
+4910368,20,2026-02-14T11:00:00.000Z,Granada,Levante,1,0,Granada,Granada,31.0
+4910369,20,2026-02-15T15:00:00.000Z,Espanyol,Logrono,1,1,Draw,Espanyol,30.0
+4910370,20,2026-02-14T17:30:00.000Z,Barcelona,Eibar,4,0,Barcelona,Barcelona,13.0
+4910371,21,2026-02-22T11:00:00.000Z,Real Madrid,UD Tenerife,2,0,Real Madrid,Real Madrid,46.0
+4910372,21,2026-02-21T11:00:00.000Z,Madrid CFF,Alhama CF,5,0,Madrid CFF,Madrid CFF,8.0
+4910373,21,2026-02-22T11:00:00.000Z,Eibar,Athletic Club,0,1,Athletic Club,Athletic Club,90.0
+4910374,21,2026-02-22T17:00:00.000Z,Sevilla,Atletico Madrid,2,1,Sevilla,Sevilla,19.0
+4910375,21,2026-02-21T13:00:00.000Z,Logrono,Levante Badalona,2,3,Levante Badalona,Levante Badalona,33.0
+4910376,21,2026-02-21T11:00:00.000Z,Levante,Deportivo La Coruna,1,2,Deportivo La Coruna,Levante,3.0
+4910377,21,2026-02-22T15:00:00.000Z,Real Sociedad,Espanyol,2,1,Real Sociedad,Real Sociedad,9.0
+4910378,21,2026-02-21T17:15:00.000Z,Granada,Barcelona,0,2,Barcelona,Barcelona,12.0
+4910379,22,2026-03-15T11:00:00.000Z,Alhama CF,Sevilla,0,1,Sevilla,Sevilla,37.0
+4910380,22,2026-03-15T16:00:00.000Z,Athletic Club,Madrid CFF,4,1,Athletic Club,Madrid CFF,26.0
+4910381,22,2026-03-14T11:00:00.000Z,Atletico Madrid,Logrono,5,0,Atletico Madrid,Atletico Madrid,14.0
+4910382,22,2026-03-15T13:00:00.000Z,Levante Badalona,Granada,0,4,Granada,Granada,18.0
+4910383,22,2026-03-15T11:00:00.000Z,Deportivo La Coruna,Barcelona,0,2,Barcelona,Barcelona,65.0
+4910384,22,2026-03-16T19:00:00.000Z,Espanyol,Eibar,2,0,Espanyol,Espanyol,41.0
+4910385,22,2026-03-14T12:00:00.000Z,UD Tenerife,Levante,4,0,UD Tenerife,UD Tenerife,16.0
+4910386,22,2026-03-14T17:30:00.000Z,Real Sociedad,Real Madrid,0,3,Real Madrid,Real Madrid,72.0
+4910387,23,2026-03-22T11:00:00.000Z,Alhama CF,Atletico Madrid,1,2,Atletico Madrid,Alhama CF,76.0
+4910388,23,2026-03-22T11:00:00.000Z,Logrono,UD Tenerife,0,1,UD Tenerife,UD Tenerife,22.0
+4910389,23,2026-03-22T15:00:00.000Z,Eibar,Real Madrid,0,1,Real Madrid,Real Madrid,24.0
+4910390,23,2026-03-21T11:00:00.000Z,Levante,Real Sociedad,0,1,Real Sociedad,Real Sociedad,52.0
+4910391,23,2026-03-21T18:00:00.000Z,Barcelona,Athletic Club,7,1,Barcelona,Barcelona,11.0
+4910392,23,2026-03-22T15:00:00.000Z,Sevilla,Levante Badalona,1,5,Levante Badalona,Levante Badalona,31.0
+4910393,23,2026-03-23T18:30:00.000Z,Granada,Deportivo La Coruna,1,0,Granada,Granada,90.0
+4910394,23,2026-03-21T11:00:00.000Z,Madrid CFF,Espanyol,1,1,Draw,Madrid CFF,7.0
+4910395,24,2026-03-29T15:00:00.000Z,Athletic Club,Atletico Madrid,1,2,Atletico Madrid,Atletico Madrid,20.0
+4910396,24,2026-03-28T17:00:00.000Z,Deportivo La Coruna,Eibar,2,1,Deportivo La Coruna,Eibar,8.0
+4910397,24,2026-03-28T15:00:00.000Z,Espanyol,Levante,1,0,Espanyol,Espanyol,41.0
+4910398,24,2026-03-28T11:00:00.000Z,Levante Badalona,Alhama CF,3,2,Levante Badalona,Levante Badalona,10.0
+4910399,24,2026-03-29T10:00:00.000Z,Real Sociedad,Logrono,1,1,Draw,Real Sociedad,34.0
+4910400,24,2026-03-29T19:00:00.000Z,Real Madrid,Barcelona,0,3,Barcelona,Barcelona,18.0
+4910401,24,2026-03-28T19:00:00.000Z,Sevilla,Granada,0,1,Granada,Granada,89.0
+4910402,24,2026-03-29T11:00:00.000Z,UD Tenerife,Madrid CFF,2,0,UD Tenerife,UD Tenerife,15.0
+4910403,25,2026-04-04T10:00:00.000Z,Alhama CF,Real Sociedad,1,5,Real Sociedad,Alhama CF,7.0
+4910404,25,2026-04-05T10:00:00.000Z,Atletico Madrid,Deportivo La Coruna,2,0,Atletico Madrid,Atletico Madrid,3.0
+4910405,25,2026-04-04T10:00:00.000Z,Logrono,Sevilla,2,1,Logrono,Logrono,14.0
+4910406,25,2026-04-03T10:00:00.000Z,Eibar,UD Tenerife,0,0,Draw,,
+4910407,25,2026-04-05T16:00:00.000Z,Madrid CFF,Real Madrid,0,2,Real Madrid,Real Madrid,48.0
+4910408,25,2026-04-05T10:00:00.000Z,Levante,Athletic Club,0,1,Athletic Club,Athletic Club,90.0
+4910409,25,2026-04-06T17:00:00.000Z,Barcelona,Levante Badalona,6,0,Barcelona,Barcelona,18.0
+4910410,25,2026-04-04T10:00:00.000Z,Granada,Espanyol,2,0,Granada,Granada,26.0
+4910411,26,2026-04-25T10:00:00.000Z,Athletic Club,Granada,1,2,Granada,Granada,16.0
+4910412,26,2026-04-25T14:00:00.000Z,Eibar,Levante,2,1,Eibar,Eibar,1.0
+4910413,26,2026-04-22T17:00:00.000Z,Espanyol,Barcelona,1,4,Barcelona,Barcelona,2.0
+4910414,26,2026-04-26T10:00:00.000Z,Deportivo La Coruna,Alhama CF,2,2,Draw,Alhama CF,35.0
+4910415,26,2026-04-25T10:00:00.000Z,Levante Badalona,Atletico Madrid,2,4,Atletico Madrid,Atletico Madrid,6.0
+4910416,26,2026-04-26T17:30:00.000Z,Real Madrid,Logrono,1,1,Draw,Real Madrid,4.0
+4910417,26,2026-04-26T15:30:00.000Z,Real Sociedad,Madrid CFF,2,0,Real Sociedad,Real Sociedad,37.0
+4910418,26,2026-04-26T11:00:00.000Z,UD Tenerife,Sevilla,3,0,UD Tenerife,UD Tenerife,27.0
+4910419,27,2026-05-01T10:00:00.000Z,Alhama CF,Espanyol,3,1,Alhama CF,Alhama CF,3.0
+4910420,27,2026-05-03T10:00:00.000Z,Atletico Madrid,Eibar,4,0,Atletico Madrid,Atletico Madrid,61.0
+4910421,27,2026-05-03T10:00:00.000Z,Deportivo La Coruna,Real Sociedad,1,2,Real Sociedad,Deportivo La Coruna,1.0
+4910422,27,2026-05-02T14:30:00.000Z,Logrono,Madrid CFF,3,0,Logrono,Logrono,29.0
+4910423,27,2026-05-06T16:45:00.000Z,Barcelona,Levante,5,0,Barcelona,Barcelona,15.0
+4910424,27,2026-05-01T15:00:00.000Z,Granada,UD Tenerife,1,1,Draw,Granada,28.0
+4910425,27,2026-05-02T10:00:00.000Z,Levante Badalona,Athletic Club,0,1,Athletic Club,Athletic Club,35.0
+4910426,27,2026-05-02T16:30:00.000Z,Sevilla,Real Madrid,0,2,Real Madrid,Real Madrid,52.0
+4910427,28,2026-05-09T16:00:00.000Z,Athletic Club,Deportivo La Coruna,0,1,Deportivo La Coruna,Deportivo La Coruna,55.0
+4910428,28,2026-05-11T17:00:00.000Z,Madrid CFF,Sevilla,2,0,Madrid CFF,Madrid CFF,26.0
+4910429,28,2026-05-09T14:00:00.000Z,Eibar,Alhama CF,2,0,Eibar,Eibar,21.0
+4910430,28,2026-05-10T15:00:00.000Z,Real Madrid,Atletico Madrid,1,0,Real Madrid,Real Madrid,25.0
+4910431,28,2026-05-09T10:00:00.000Z,Espanyol,Levante Badalona,1,1,Draw,Levante Badalona,22.0
+4910432,28,2026-05-10T17:00:00.000Z,UD Tenerife,Barcelona,1,3,Barcelona,UD Tenerife,23.0
+4910433,28,2026-05-09T10:00:00.000Z,Real Sociedad,Granada,3,0,Real Sociedad,Real Sociedad,20.0
+4910434,28,2026-05-10T10:00:00.000Z,Levante,Logrono,1,4,Logrono,Logrono,51.0
+4910435,29,2026-05-26T17:00:00.000Z,Alhama CF,Levante,0,0,Draw,,
+4910436,29,2026-05-26T19:00:00.000Z,Atletico Madrid,UD Tenerife,0,0,Draw,,
+4910437,29,2026-05-26T17:00:00.000Z,Levante Badalona,Real Madrid,0,0,Draw,,
+4910438,29,2026-05-26T17:00:00.000Z,Granada,Madrid CFF,0,0,Draw,,
+4910439,29,2026-05-26T17:00:00.000Z,Logrono,Athletic Club,0,0,Draw,,
+4910440,29,2026-05-26T17:00:00.000Z,Sevilla,Eibar,0,0,Draw,,
+4910441,29,2026-05-27T19:00:00.000Z,Deportivo La Coruna,Espanyol,0,0,Draw,,
+4910442,29,2026-05-27T17:00:00.000Z,Barcelona,Real Sociedad,0,0,Draw,,
+4910443,30,2026-05-31T14:00:00.000Z,Espanyol,Sevilla,0,0,Draw,,
+4910444,30,2026-05-31T14:00:00.000Z,Athletic Club,Alhama CF,0,0,Draw,,
+4910445,30,2026-05-31T10:00:00.000Z,Real Sociedad,Atletico Madrid,0,0,Draw,,
+4910446,30,2026-05-31T14:00:00.000Z,Levante,Levante Badalona,0,0,Draw,,
+4910447,30,2026-05-31T11:00:00.000Z,UD Tenerife,Deportivo La Coruna,0,0,Draw,,
+4910448,30,2026-05-31T10:00:00.000Z,Eibar,Logrono,0,0,Draw,,
+4910449,30,2026-05-31T14:00:00.000Z,Madrid CFF,Barcelona,0,0,Draw,,
+4910450,30,2026-05-31T10:00:00.000Z,Real Madrid,Granada,0,0,Draw,,
