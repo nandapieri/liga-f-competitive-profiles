@@ -127,6 +127,84 @@ The goal is to improve readability and storytelling instead of producing purely 
 
 ---
 
+---
+
+# Next Phases
+
+The current version of the project focuses on competitive control, resilience and contextual stability using match-level game-state analysis.
+
+Future phases aim to deepen the interpretation of competitive behavior across the season.
+
+## 1. Volatility & State Changes
+
+Potential additions:
+- number of lead changes,
+- match volatility index,
+- frequency of equalizers,
+- time spent winning/drawing/losing,
+- game chaos indicators.
+
+Goal:
+better understand emotional and structural stability during matches.
+
+---
+
+## 2. Temporal Dynamics
+
+Potential additions:
+- rolling control scores,
+- rolling resilience scores,
+- momentum shifts across the season,
+- collapse or recovery periods,
+- form evolution by round.
+
+Goal:
+analyze how competitive behavior changes over time instead of treating the season as a static dataset.
+
+---
+
+## 3. Home vs Away Competitive Identity
+
+Potential additions:
+- contextual stability at home vs away,
+- resilience differences by venue,
+- dependence on home advantage,
+- emotional stability outside home matches.
+
+Goal:
+explore how competitive identity changes depending on match context.
+
+---
+
+## 4. Match Flow Modeling
+
+Potential additions:
+- game-state transition models,
+- comeback probabilities,
+- collapse probabilities,
+- state transition matrices.
+
+Goal:
+move from descriptive analysis toward contextual match-flow modeling.
+
+---
+
+## 5. Football Interpretation Layer
+
+Main focus:
+connecting the metrics to football meaning.
+
+Key questions:
+- What does “control” actually mean in Liga F?
+- Which teams sustain competitive dominance most consistently?
+- Which teams depend heavily on game state?
+- Which teams perform better under adversity or chaos?
+- Which patterns help explain long-term competitive stability?
+
+The long-term objective is to build a football-oriented framework for interpreting competitive behavior beyond traditional standings and isolated match statistics.
+
+---
+
 # Author
 
 Fernanda Pieri  
