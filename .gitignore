@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# macOS
+.DS_Store
+
+# Browser profile
+browser_profile/
+
+# Raw data
+data/raw/
+
+# Generated outputs
+outputs/
+
+# Temporary/test files
+test.py
