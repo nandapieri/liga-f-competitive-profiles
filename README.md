@@ -27,7 +27,8 @@ scripts/
 ├── 01_game_state_exploration.py
 ├── 02_scoring_first_analysis.py
 ├── 03_comeback_analysis.py
-└── 04_team_profiles.py
+├── 04_team_profiles.py
+└── 05_volatility_analysis.py
 ```
 
 ---
@@ -105,6 +106,32 @@ This creates league-wide competitive archetypes such as:
 
 ---
 
+## 5. Volatility & Match Chaos Analysis
+
+Analysis focused on competitive instability, contextual turbulence and match-state volatility across Liga F.
+
+Metrics:
+- Match chaos score
+- Lead-change frequency
+- Equalizer frequency
+- Late-game involvement
+- Volatility mapping
+- Competitive Interpretation
+
+This section explores:
+- emotionally unstable matches,
+- chaotic competitive environments,
+- controlled dominance,
+- and how different teams sustain or lose contextual control during matches.
+
+The analysis introduces volatility archetypes such as:
+- Stable profiles
+- Controlled volatility
+- High-chaos competitors
+- Reactive environments
+
+---
+
 # Visual Design Philosophy
 
 The project uses a consistent visual language inspired by a “competitive traffic-light system”:
@@ -135,17 +162,17 @@ The current version of the project focuses on competitive control, resilience an
 
 Future phases aim to deepen the interpretation of competitive behavior across the season.
 
-## 1. Volatility & State Changes
+## 1. Temporal Volatility Dynamics
 
 Potential additions:
-- number of lead changes,
-- match volatility index,
-- frequency of equalizers,
-- time spent winning/drawing/losing,
-- game chaos indicators.
+- rolling chaos scores,
+- volatility evolution across the season,
+- momentum swings,
+- instability streaks,
+- contextual collapse periods.
 
 Goal:
-better understand emotional and structural stability during matches.
+understand how competitive instability changes throughout the season instead of using only season-wide aggregates.
 
 ---
 
